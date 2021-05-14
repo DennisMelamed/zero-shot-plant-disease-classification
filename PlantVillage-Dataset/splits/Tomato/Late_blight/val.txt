@@ -1,0 +1,286 @@
+PlantVillage-Dataset/Tomato___Late_blight/7d9f4bd8-6a41-4c5e-816e-175f88e0be41___RS_Late.B 5488.JPG
+PlantVillage-Dataset/Tomato___Late_blight/4f4ae955-8ed2-4eae-b013-bc26ae5e91b0___GHLB2 Leaf 91.JPG
+PlantVillage-Dataset/Tomato___Late_blight/aa5594a4-0679-4f85-bc2e-ff65342aaca1___GHLB2 Leaf 71.JPG
+PlantVillage-Dataset/Tomato___Late_blight/2d583f2c-3e59-4c4c-be45-5f367a38af95___GHLB2 Leaf 8724.JPG
+PlantVillage-Dataset/Tomato___Late_blight/ce3f895d-e031-4ed9-ac40-7f6550894bff___GHLB_PS Leaf 52.1 Day 18.jpg
+PlantVillage-Dataset/Tomato___Late_blight/dd84ae03-7d7d-4e12-8f9f-f684abdcb320___RS_Late.B 5637.JPG
+PlantVillage-Dataset/Tomato___Late_blight/7048f52e-7b68-43d2-81d7-a146d5a73407___GHLB2 Leaf 8708.JPG
+PlantVillage-Dataset/Tomato___Late_blight/5ee4e525-31bd-415c-9f64-30746c2434d7___RS_Late.B 4883.JPG
+PlantVillage-Dataset/Tomato___Late_blight/29587a7b-a64d-4d2e-8fab-d0ec587e8ecd___GHLB2 Leaf 9081.JPG
+PlantVillage-Dataset/Tomato___Late_blight/fbbe43eb-7d70-4053-97ac-908fb9af1a6f___RS_Late.B 6587.JPG
+PlantVillage-Dataset/Tomato___Late_blight/1e2fe7d3-3d69-4cf6-aef7-e9975940bd40___GHLB2 Leaf 77.JPG
+PlantVillage-Dataset/Tomato___Late_blight/28f782dd-1c8a-439d-9eb6-e55c52ef45bd___RS_Late.B 5447.JPG
+PlantVillage-Dataset/Tomato___Late_blight/f4c2eabd-d29b-44ac-bda7-46d4b07fe799___RS_Late.B 4852.JPG
+PlantVillage-Dataset/Tomato___Late_blight/ea16e464-19b9-47aa-a1a6-3c33c0cfd609___GHLB2 Leaf 153.JPG
+PlantVillage-Dataset/Tomato___Late_blight/c02d8671-0b42-4fb3-a7c7-5bbb002ca6d3___GHLB2 Leaf 8935.JPG
+PlantVillage-Dataset/Tomato___Late_blight/142fbb48-886a-4b2b-8a2a-52e548e7e2b7___GHLB2 Leaf 117.3.JPG
+PlantVillage-Dataset/Tomato___Late_blight/861d8b00-57a4-46b0-b51a-09d102dbe119___GHLB_PS Leaf 24 Day 13.jpg
+PlantVillage-Dataset/Tomato___Late_blight/9adeaa24-183e-4403-b899-6fdce79ed524___RS_Late.B 6023.JPG
+PlantVillage-Dataset/Tomato___Late_blight/5e590575-5588-422f-96a7-5e8c920fc7e2___GHLB2 Leaf 8671.JPG
+PlantVillage-Dataset/Tomato___Late_blight/736c244e-cbeb-406a-bd0e-9a86675b99fc___RS_Late.B 4972.JPG
+PlantVillage-Dataset/Tomato___Late_blight/cd3a1b72-2538-4ed0-9b04-6485b4f0ab0c___RS_Late.B 7149.JPG
+PlantVillage-Dataset/Tomato___Late_blight/74fd0cc8-43c7-4659-94ef-b4c55919f677___RS_Late.B 6052.JPG
+PlantVillage-Dataset/Tomato___Late_blight/9a4627a2-053d-443b-9135-7c1a913b63c4___GHLB Leaf 25.1 Day 12.JPG
+PlantVillage-Dataset/Tomato___Late_blight/a9e5eb70-1dc4-44ec-927a-4ac745c1ff31___RS_Late.B 5035.JPG
+PlantVillage-Dataset/Tomato___Late_blight/09590524-981f-4dc5-b6e3-5225a0c48019___GHLB2ES Leaf 140.JPG
+PlantVillage-Dataset/Tomato___Late_blight/92286a65-7836-4a51-9e6a-ada347bd2cbf___RS_Late.B 5398.JPG
+PlantVillage-Dataset/Tomato___Late_blight/ff735d59-0023-4c97-853c-ff4083ba96d6___RS_Late.B 6263.JPG
+PlantVillage-Dataset/Tomato___Late_blight/1cb5d336-3649-49bf-aa9a-72950067b8b0___GHLB_PS Leaf 12 Day 9.jpg
+PlantVillage-Dataset/Tomato___Late_blight/f3b38383-f6ff-4779-a57a-fd1766721555___GHLB2 Leaf 9088.JPG
+PlantVillage-Dataset/Tomato___Late_blight/8168a850-1360-49cf-8ecc-77730cc24ac5___RS_Late.B 4979.JPG
+PlantVillage-Dataset/Tomato___Late_blight/1507883d-7f10-4b69-88d4-db80850b1664___GHLB2 Leaf 154.JPG
+PlantVillage-Dataset/Tomato___Late_blight/a5d9410b-4ca9-494f-ba13-c7a01c48fa49___RS_Late.B 7147.JPG
+PlantVillage-Dataset/Tomato___Late_blight/e7aaf85a-7392-43b1-9b10-6f1fb0045cba___GHLB2 Leaf 8961.JPG
+PlantVillage-Dataset/Tomato___Late_blight/59c4daa6-f757-4c29-abcd-e1e30153c7e5___GHLB2 Leaf 9073.JPG
+PlantVillage-Dataset/Tomato___Late_blight/c3a5ec63-9d0d-48a2-898a-9bc31b4443a9___GHLB_PS Leaf 1.2 Day 16.jpg
+PlantVillage-Dataset/Tomato___Late_blight/7da8f393-2df9-42cc-a864-bc8d7ead2fe4___GHLB2 Leaf 8619.JPG
+PlantVillage-Dataset/Tomato___Late_blight/aae99313-6183-4d7d-832f-f5af6d1522fc___GHLB2 Leaf 8950.JPG
+PlantVillage-Dataset/Tomato___Late_blight/fabaa5c5-3180-49b7-b538-d1a31316afd8___GHLB2 Leaf 121.4.JPG
+PlantVillage-Dataset/Tomato___Late_blight/f73231ab-afd2-4d01-acd2-7ba229349de6___RS_Late.B 6969.JPG
+PlantVillage-Dataset/Tomato___Late_blight/eed357a4-620c-42ef-b626-cb3b5026abca___GHLB2 Leaf 8970.JPG
+PlantVillage-Dataset/Tomato___Late_blight/e5c62da4-e09d-4dc5-a5b1-63a5f85826de___RS_Late.B 6981.JPG
+PlantVillage-Dataset/Tomato___Late_blight/bb058b97-a4b8-4a36-8179-2a8fa186085c___RS_Late.B 4927.JPG
+PlantVillage-Dataset/Tomato___Late_blight/8f652c9e-134b-4b9f-bdca-15ad4f6a87ba___GHLB2 Leaf 8808.JPG
+PlantVillage-Dataset/Tomato___Late_blight/8d786c11-5426-4af6-96a0-0c0d9ec804d7___RS_Late.B 5009.JPG
+PlantVillage-Dataset/Tomato___Late_blight/7868d41c-77db-4a0e-90e3-b4a90a17bfdc___RS_Late.B 5401.JPG
+PlantVillage-Dataset/Tomato___Late_blight/a20b95be-e0c6-4cd4-b8ec-fa955d9eb01d___GHLB2 Leaf 9045.JPG
+PlantVillage-Dataset/Tomato___Late_blight/62aff181-7479-4134-bb2e-9acbbf062a3b___RS_Late.B 6449.JPG
+PlantVillage-Dataset/Tomato___Late_blight/46b29233-cfd6-47d0-99b5-504a4df17bbf___RS_Late.B 5350.JPG
+PlantVillage-Dataset/Tomato___Late_blight/cfaaca13-e947-4cc1-aa07-1611b17879a4___GHLB2 Leaf 9118.JPG
+PlantVillage-Dataset/Tomato___Late_blight/1c0bc46f-d72f-4826-9cb4-8879d80cac73___GHLB2 Leaf 9012.JPG
+PlantVillage-Dataset/Tomato___Late_blight/cb56bd8e-f217-4537-9d35-a62d6b82f48f___GHLB2 Leaf 8769.JPG
+PlantVillage-Dataset/Tomato___Late_blight/de272472-c653-4102-beac-6813da817d21___GHLB2 Leaf 153.2.JPG
+PlantVillage-Dataset/Tomato___Late_blight/f7b5ed86-c63c-49c3-90d0-e1f35f4a93e4___GHLB2 Leaf 8979.JPG
+PlantVillage-Dataset/Tomato___Late_blight/d2619e9f-172d-4c42-8513-0ab522c02824___GHLB Leaf 2.2 Day 16.JPG
+PlantVillage-Dataset/Tomato___Late_blight/58f61006-7ddb-48f7-86cd-7b2cc7858d0d___RS_Late.B 5110.JPG
+PlantVillage-Dataset/Tomato___Late_blight/02fe963e-7c68-4fd3-9f8f-36bf9e153c20___GHLB2 Leaf 8581.JPG
+PlantVillage-Dataset/Tomato___Late_blight/e64d0e92-dbc2-44c2-b96a-3da5dc3a1c39___GHLB_PS Leaf 15.1 Day 8.jpg
+PlantVillage-Dataset/Tomato___Late_blight/7879051c-bbca-4c32-946d-34cf2a02434d___GHLB2 Leaf 8851.JPG
+PlantVillage-Dataset/Tomato___Late_blight/4392c0b5-bd98-4419-a99a-68d0f41f00b9___GHLB2 Leaf 8680.JPG
+PlantVillage-Dataset/Tomato___Late_blight/670616fe-c1a6-41a9-99b2-eb6270d8c299___GHLB_PS Leaf 26.2 Day 16.jpg
+PlantVillage-Dataset/Tomato___Late_blight/f68ecc9a-4ac2-4dde-b2bb-97f2c438ffd8___GHLB2 Leaf 8964.JPG
+PlantVillage-Dataset/Tomato___Late_blight/b61b92f6-9991-4f85-a9a6-c3993720d842___GHLB2 Leaf 9067.JPG
+PlantVillage-Dataset/Tomato___Late_blight/a9b6997c-b2bd-4938-aa5f-492ae0cc8431___RS_Late.B 5063.JPG
+PlantVillage-Dataset/Tomato___Late_blight/d91538d7-1e25-442d-8963-86fec71a6545___RS_Late.B 6365.JPG
+PlantVillage-Dataset/Tomato___Late_blight/b5e5a3bd-a8c8-46fc-928f-f0bb083b9a4e___GHLB2 Leaf 8550.JPG
+PlantVillage-Dataset/Tomato___Late_blight/c1f3a153-7738-4cdc-a8a2-003e7221001a___GHLB2 Leaf 9013.JPG
+PlantVillage-Dataset/Tomato___Late_blight/35a4883c-bef7-4465-b136-a7465a0752de___RS_Late.B 5054.JPG
+PlantVillage-Dataset/Tomato___Late_blight/cd71e099-6bee-45ab-8de3-08be107939af___RS_Late.B 5040.JPG
+PlantVillage-Dataset/Tomato___Late_blight/ec8b22c9-a1b5-402c-9f9c-5bd24a209b94___RS_Late.B 6687.JPG
+PlantVillage-Dataset/Tomato___Late_blight/5c6dfda8-1d4e-4ad0-92b1-5c6ffc790ea1___RS_Late.B 6223.JPG
+PlantVillage-Dataset/Tomato___Late_blight/78b86a00-59ee-4e29-865c-c7cbf42dd9dd___GHLB2 Leaf 8715.JPG
+PlantVillage-Dataset/Tomato___Late_blight/35c64b94-b2f4-456d-b55f-a376827186c2___GHLB2 Leaf 129.JPG
+PlantVillage-Dataset/Tomato___Late_blight/732a9df6-b5dd-493b-a7dc-3f3cd034e3c7___GHLB2 Leaf 8762.JPG
+PlantVillage-Dataset/Tomato___Late_blight/1498c064-8f74-4706-bf27-4761c24b72bd___RS_Late.B 5120.JPG
+PlantVillage-Dataset/Tomato___Late_blight/2248836f-550a-4183-a2d8-5ff5f87e1800___GHLB2 Leaf 8810.JPG
+PlantVillage-Dataset/Tomato___Late_blight/f8afeeda-7bed-422b-8535-67e221372eb7___RS_Late.B 5315.JPG
+PlantVillage-Dataset/Tomato___Late_blight/1510bf70-ab9e-43df-b5d9-9b5e4352e66b___GHLB2 Leaf 118.JPG
+PlantVillage-Dataset/Tomato___Late_blight/7538ba25-b6c3-4aca-a3d5-68ab173c93eb___RS_Late.B 5436.JPG
+PlantVillage-Dataset/Tomato___Late_blight/8edb3824-bc6b-48a6-b659-ae29c9754274___GHLB2 Leaf 103.JPG
+PlantVillage-Dataset/Tomato___Late_blight/9b4df340-b1bf-4294-a275-1bc0d9b64ff6___GHLB2ES Leaf 138.1.JPG
+PlantVillage-Dataset/Tomato___Late_blight/784f6313-1080-4bd1-a556-d4e14e6879d0___GHLB_PS Leaf 53.1 Day 18 .jpg
+PlantVillage-Dataset/Tomato___Late_blight/e58ca54a-9a89-4a92-9869-dc3273e769d9___GHLB2 Leaf 113.2.JPG
+PlantVillage-Dataset/Tomato___Late_blight/370b9866-9a0d-4541-aaf1-cfefa1d2268c___RS_Late.B 6938.JPG
+PlantVillage-Dataset/Tomato___Late_blight/a67ce05c-3102-4dd9-ac63-872a526f5ae8___RS_Late.B 6124.JPG
+PlantVillage-Dataset/Tomato___Late_blight/80380588-3ae5-43e3-8acf-541b53e5d44b___RS_Late.B 6542.JPG
+PlantVillage-Dataset/Tomato___Late_blight/6ad57808-1bf1-4273-a7a8-a85d4dabcdf1___RS_Late.B 6243.JPG
+PlantVillage-Dataset/Tomato___Late_blight/1f2dc4ae-5264-443a-a103-67fafb37bc70___GHLB_PS Leaf 26.1 Day 16.jpg
+PlantVillage-Dataset/Tomato___Late_blight/3bfcacdf-3d19-47c4-a52e-6d884dfc5e20___RS_Late.B 6651.JPG
+PlantVillage-Dataset/Tomato___Late_blight/1350ac99-ea6a-43a2-8ab5-178219b286ba___GHLB2 Leaf 8673.JPG
+PlantVillage-Dataset/Tomato___Late_blight/eedd252b-1d20-4cc8-94ca-b8800334996c___GHLB2 Leaf 8667.JPG
+PlantVillage-Dataset/Tomato___Late_blight/9191536b-0dd5-4c85-935a-37fdab6e4fab___RS_Late.B 6042.JPG
+PlantVillage-Dataset/Tomato___Late_blight/c062b009-0e6e-4cf0-976c-004a06b7e6ee___GHLB2 Leaf 8881.JPG
+PlantVillage-Dataset/Tomato___Late_blight/ad21ff2c-af70-45c3-9971-c52283394742___GHLB2 Leaf 8596.JPG
+PlantVillage-Dataset/Tomato___Late_blight/ba86e24f-fe3e-4f17-a920-f8dba4ecb4d7___GHLB2 Leaf 8974.JPG
+PlantVillage-Dataset/Tomato___Late_blight/6fc04152-9f3d-46c0-93b9-a0d23edcd1e2___GHLB2 Leaf 84.4.JPG
+PlantVillage-Dataset/Tomato___Late_blight/8db4bafa-489e-42ff-ad14-98cb9af8e733___RS_Late.B 5397.JPG
+PlantVillage-Dataset/Tomato___Late_blight/525e419d-7077-44be-87f1-aef32ef27a2e___GHLB2 Leaf 96.JPG
+PlantVillage-Dataset/Tomato___Late_blight/c6f2f79f-4554-4869-84e0-32df4ed15eb4___RS_Late.B 6399.JPG
+PlantVillage-Dataset/Tomato___Late_blight/ab503aa2-fb87-44a5-97f9-f2dd80c1697d___GHLB2 Leaf 8647.JPG
+PlantVillage-Dataset/Tomato___Late_blight/9c274db5-2f89-4f3c-b9e2-4d5ebc54ddad___GHLB2 Leaf 9096.JPG
+PlantVillage-Dataset/Tomato___Late_blight/389ecffc-2ab0-4c7e-9f03-d6d4695d4f6a___RS_Late.B 5117.JPG
+PlantVillage-Dataset/Tomato___Late_blight/910c7947-dc38-4cb3-8df5-69bee6796afa___RS_Late.B 6968.JPG
+PlantVillage-Dataset/Tomato___Late_blight/049dbcab-de65-4f09-9b1b-e59886f56f2e___RS_Late.B 5141.JPG
+PlantVillage-Dataset/Tomato___Late_blight/956e56f5-7dcf-49be-8283-e560d7368c9a___RS_Late.B 6487.JPG
+PlantVillage-Dataset/Tomato___Late_blight/021a9808-21f7-464a-8df2-2eda5ed98eda___RS_Late.B 5356.JPG
+PlantVillage-Dataset/Tomato___Late_blight/0172b2ff-6f6f-43e1-9a63-ea4bb2bce450___GHLB_PS Leaf 17 Day 9.jpg
+PlantVillage-Dataset/Tomato___Late_blight/f08ebd91-a148-4494-a45c-55ebc1bf1f60___GHLB2 Leaf 8942.JPG
+PlantVillage-Dataset/Tomato___Late_blight/34ce281a-ca92-4f89-a074-157fcedabf4c___RS_Late.B 5590.JPG
+PlantVillage-Dataset/Tomato___Late_blight/a06d18d4-0c8d-4ebc-ba9b-19f004a67eea___GHLB2ES Leaf 63.JPG
+PlantVillage-Dataset/Tomato___Late_blight/998dafd6-dac5-41f7-84d9-f96c9593dda3___RS_Late.B 7075.JPG
+PlantVillage-Dataset/Tomato___Late_blight/2798c7ea-850e-49a7-b304-3114c60c6baf___RS_Late.B 7141.JPG
+PlantVillage-Dataset/Tomato___Late_blight/772e3007-0263-45ec-b7f2-fd283d3fcd90___RS_Late.B 5578.JPG
+PlantVillage-Dataset/Tomato___Late_blight/df7775b2-73f3-4708-86d5-a56e2bbb3337___RS_Late.B 5378.JPG
+PlantVillage-Dataset/Tomato___Late_blight/ac89de10-2de8-40a4-8f6e-f0a37e97cd57___RS_Late.B 5126.JPG
+PlantVillage-Dataset/Tomato___Late_blight/dbbe0ac5-5cb6-4bcd-940a-f0a8104d4e79___RS_Late.B 6067.JPG
+PlantVillage-Dataset/Tomato___Late_blight/5a4428ec-59da-40e5-823c-2e5bbb2a1fb6___RS_Late.B 5461.JPG
+PlantVillage-Dataset/Tomato___Late_blight/2077acd5-80d2-421f-8641-308048d44651___GHLB2 Leaf 8678.JPG
+PlantVillage-Dataset/Tomato___Late_blight/42925d12-5478-4773-acdd-88b8361f8bb9___RS_Late.B 5458.JPG
+PlantVillage-Dataset/Tomato___Late_blight/f2dba3c2-82b9-4a5a-9424-f24de8972266___GHLB2 Leaf 8901.JPG
+PlantVillage-Dataset/Tomato___Late_blight/335da0b8-a52f-4a2a-8bce-cf98b53b2596___RS_Late.B 6220.JPG
+PlantVillage-Dataset/Tomato___Late_blight/427af7ac-5593-4c8e-9a10-44978c009612___RS_Late.B 5452.JPG
+PlantVillage-Dataset/Tomato___Late_blight/317f01bd-bf08-43b2-b269-48a6fa2fd480___RS_Late.B 4854.JPG
+PlantVillage-Dataset/Tomato___Late_blight/634c3515-80da-4144-8cc8-9b8bb29134ec___RS_Late.B 5481.JPG
+PlantVillage-Dataset/Tomato___Late_blight/005e3b43-9050-47da-9498-f9ecdcc703b3___RS_Late.B 5104.JPG
+PlantVillage-Dataset/Tomato___Late_blight/d5b8a6e0-d0f6-4271-9d20-2e2d98834b8e___RS_Late.B 4952.JPG
+PlantVillage-Dataset/Tomato___Late_blight/8f6e4229-2e6c-409c-8e9b-e3573a478b8a___RS_Late.B 5044.JPG
+PlantVillage-Dataset/Tomato___Late_blight/f2f22a54-7995-4b43-83bf-5a0fba777466___RS_Late.B 5583.JPG
+PlantVillage-Dataset/Tomato___Late_blight/badd718d-0a43-411b-889c-d46a01834dba___RS_Late.B 5547.JPG
+PlantVillage-Dataset/Tomato___Late_blight/5c33bdb3-8101-4b21-a9d1-8d490bb22e16___GHLB2 Leaf 8971.JPG
+PlantVillage-Dataset/Tomato___Late_blight/2ccd5383-74a3-41d5-9483-110a20ebf247___RS_Late.B 5329.JPG
+PlantVillage-Dataset/Tomato___Late_blight/918d106d-a453-4c44-80b4-601be91a0896___GHLB2 Leaf 159.1.JPG
+PlantVillage-Dataset/Tomato___Late_blight/014eee0c-8000-4762-b4b8-63ecc2fadc13___GHLB2ES Leaf 69.1.JPG
+PlantVillage-Dataset/Tomato___Late_blight/8ebbd6ea-f580-492d-a01d-7f00a3e788fb___RS_Late.B 6603.JPG
+PlantVillage-Dataset/Tomato___Late_blight/455a88bf-102d-4eeb-bea9-f0e648a3ad31___RS_Late.B 6903.JPG
+PlantVillage-Dataset/Tomato___Late_blight/846005e7-d4ad-49e4-bfce-3aefe50b44e0___RS_Late.B 5158.JPG
+PlantVillage-Dataset/Tomato___Late_blight/f401bc9a-3136-40cd-8a6b-99308e7de798___RS_Late.B 5004.JPG
+PlantVillage-Dataset/Tomato___Late_blight/3102efb7-6d3d-41db-aac8-587014fefe49___GHLB2 Leaf 9053.JPG
+PlantVillage-Dataset/Tomato___Late_blight/031ab3ab-02f4-4397-9886-54345461580d___RS_Late.B 6654.JPG
+PlantVillage-Dataset/Tomato___Late_blight/5f21282c-e2ef-4c4a-ace1-b5701fe7effc___GHLB2 Leaf 8999.JPG
+PlantVillage-Dataset/Tomato___Late_blight/29e99d11-44d0-4c6c-8183-c3e7be56ce58___RS_Late.B 7093.JPG
+PlantVillage-Dataset/Tomato___Late_blight/10020ad2-c9bc-448b-a2de-7a8d34796f96___GHLB_PS Leaf 2.1 Day 13.jpg
+PlantVillage-Dataset/Tomato___Late_blight/fd99b211-340e-4ac0-9c33-b59e9c594ba2___GHLB2 Leaf 93.JPG
+PlantVillage-Dataset/Tomato___Late_blight/79619905-8b34-42a0-8176-17e28c200a5b___RS_Late.B 5090.JPG
+PlantVillage-Dataset/Tomato___Late_blight/e55af4aa-1f1c-4300-86ca-bdcff04bef80___GHLB_PS Leaf 2 Day 9.jpg
+PlantVillage-Dataset/Tomato___Late_blight/5de5dfbd-cd1f-4e5f-a263-256abb97b05b___GHLB_PS Leaf 8.1 Day 13.jpg
+PlantVillage-Dataset/Tomato___Late_blight/6f6d2197-8756-4771-ac32-61bd0bc31aa0___GHLB2 Leaf 9074.JPG
+PlantVillage-Dataset/Tomato___Late_blight/03ccfc6a-8142-4f46-8eb5-f7fc77978081___RS_Late.B 4916.JPG
+PlantVillage-Dataset/Tomato___Late_blight/5b95aab7-c5be-42e3-afc8-c99f7c1c2c0c___GHLB2 Leaf 8658.JPG
+PlantVillage-Dataset/Tomato___Late_blight/01cd2d73-c741-45a5-9610-a2cea2266b80___GHLB2 Leaf 121.JPG
+PlantVillage-Dataset/Tomato___Late_blight/4e634785-ec5c-43b9-a352-9c9deb88b117___RS_Late.B 7095.JPG
+PlantVillage-Dataset/Tomato___Late_blight/01a68044-9c5b-4658-a944-6108c6862ce7___GHLB Leaf 2.1 Day 16.JPG
+PlantVillage-Dataset/Tomato___Late_blight/02790384-a589-421b-8695-693e77970418___GHLB2 Leaf 8920.JPG
+PlantVillage-Dataset/Tomato___Late_blight/b67ed405-b86b-4a5b-a403-d5fd87202e92___RS_Late.B 5006.JPG
+PlantVillage-Dataset/Tomato___Late_blight/0ab1cab4-a0c9-4323-9a64-cdafa4342a9b___GHLB2 Leaf 8918.JPG
+PlantVillage-Dataset/Tomato___Late_blight/98a95140-e62b-4234-b435-914d67d0afb1___RS_Late.B 6027.JPG
+PlantVillage-Dataset/Tomato___Late_blight/a65ce89e-dc42-4ef6-ae82-68017cec5884___GHLB2 Leaf 8653.JPG
+PlantVillage-Dataset/Tomato___Late_blight/f7e7a40f-335d-45a6-b086-3f6b9779a5a0___RS_Late.B 4903.JPG
+PlantVillage-Dataset/Tomato___Late_blight/4d6314e5-b280-4872-8eb6-cf4632934ae3___GHLB2 Leaf 81.JPG
+PlantVillage-Dataset/Tomato___Late_blight/385e730c-e1f9-4f46-b8b0-42bfa13866d7___RS_Late.B 4965.JPG
+PlantVillage-Dataset/Tomato___Late_blight/e131a4c1-21d7-40cd-a19f-02456e411750___GHLB Leaf 3 Day 1.JPG
+PlantVillage-Dataset/Tomato___Late_blight/442f2aa6-9341-4f25-b789-edb5c9ac078b___GHLB2 Leaf 8846.JPG
+PlantVillage-Dataset/Tomato___Late_blight/2482cadb-d097-4091-8b10-099abca71a72___RS_Late.B 5078.JPG
+PlantVillage-Dataset/Tomato___Late_blight/e9b2e447-add8-4ff1-a24b-eb577d0085c7___GHLB2 Leaf 8589.JPG
+PlantVillage-Dataset/Tomato___Late_blight/65576adf-cef4-4f1a-8b7c-881e8729bdbf___GHLB2 Leaf 147.JPG
+PlantVillage-Dataset/Tomato___Late_blight/225d8d96-41c1-4a03-b02d-0c1ca8c2017a___RS_Late.B 6795.JPG
+PlantVillage-Dataset/Tomato___Late_blight/06a7cfd9-0992-4020-8a11-79249d657c0c___GHLB2 Leaf 131.JPG
+PlantVillage-Dataset/Tomato___Late_blight/0566e4e3-675b-4289-9e36-ad199448975b___GHLB2 Leaf 161.2.JPG
+PlantVillage-Dataset/Tomato___Late_blight/f1aca7db-32e7-4cbe-a9ca-0b185fd1a1a9___GHLB2 Leaf 89.1.JPG
+PlantVillage-Dataset/Tomato___Late_blight/2ac8376a-3401-4572-af45-6984e6415996___GHLB2 Leaf 8787.JPG
+PlantVillage-Dataset/Tomato___Late_blight/5ced2ede-33df-44e7-8063-a27ad667cd1a___RS_Late.B 6721.JPG
+PlantVillage-Dataset/Tomato___Late_blight/6b7f4762-88d6-4e85-8fad-57ca4083ec89___GHLB_PS Leaf 8.1 Day 9.jpg
+PlantVillage-Dataset/Tomato___Late_blight/3db1a347-001b-4170-8f64-4fa097f83bc7___GHLB_PS Leaf 1.2 Day 8.jpg
+PlantVillage-Dataset/Tomato___Late_blight/a5fe1111-38b0-4206-9ac7-3eec701beb79___GHLB2 Leaf 8868.JPG
+PlantVillage-Dataset/Tomato___Late_blight/e7a25945-e168-4539-8324-7465310c2795___GHLB2 Leaf 8958.JPG
+PlantVillage-Dataset/Tomato___Late_blight/c50640d9-3647-4ef0-95c5-31fc5e8b688a___GHLB2 Leaf 8908.JPG
+PlantVillage-Dataset/Tomato___Late_blight/a58b9916-46bd-49c2-b26e-de46080fdeee___GHLB2 Leaf 8879.JPG
+PlantVillage-Dataset/Tomato___Late_blight/98c02c7b-95b3-4714-8837-0df2d929a39e___GHLB2 Leaf 8700.JPG
+PlantVillage-Dataset/Tomato___Late_blight/b3e8d2db-5531-41cc-86ce-d4ac76c5be56___RS_Late.B 7070.JPG
+PlantVillage-Dataset/Tomato___Late_blight/546b8a7a-6dd4-4f75-9794-4328a9d40758___GHLB2 Leaf 8618.JPG
+PlantVillage-Dataset/Tomato___Late_blight/3a051073-6326-43f1-bd93-a3c69661a87f___GHLB2 Leaf 8655.JPG
+PlantVillage-Dataset/Tomato___Late_blight/90b4fa52-1f63-466f-ab26-e2b180935c94___RS_Late.B 6323.JPG
+PlantVillage-Dataset/Tomato___Late_blight/d7d87536-e71c-4324-a00a-107b9ee00614___GHLB_PS Leaf 22.1 Day 9.jpg
+PlantVillage-Dataset/Tomato___Late_blight/9c0d321d-1b14-40df-a9fe-1c6b8e10f13b___GHLB2 Leaf 8770.JPG
+PlantVillage-Dataset/Tomato___Late_blight/2e6fd489-d873-4fc6-a908-467765017508___GHLB2 Leaf 151.JPG
+PlantVillage-Dataset/Tomato___Late_blight/bb487e34-b328-40b9-a33f-592701216063___RS_Late.B 5175.JPG
+PlantVillage-Dataset/Tomato___Late_blight/cbba9493-51c1-4cad-b194-0ca6ac3a3059___RS_Late.B 6773.JPG
+PlantVillage-Dataset/Tomato___Late_blight/f96c2269-cf72-448e-a1b7-d74f2e46a675___RS_Late.B 6851.JPG
+PlantVillage-Dataset/Tomato___Late_blight/e837f5b0-6d32-481e-872c-a2db611d20c3___RS_Late.B 6804.JPG
+PlantVillage-Dataset/Tomato___Late_blight/aee192d9-666e-4ef8-aa5e-86d09d14216c___GHLB2 Leaf 8582.JPG
+PlantVillage-Dataset/Tomato___Late_blight/d6dde2e1-097a-4d45-b646-0110aaa06107___GHLB2 Leaf 8816.JPG
+PlantVillage-Dataset/Tomato___Late_blight/07eb29e8-112d-4bcb-8b65-aba4b4307f2a___RS_Late.B 6907.JPG
+PlantVillage-Dataset/Tomato___Late_blight/5c715755-192c-4d69-8740-e778e4a66618___RS_Late.B 6215.JPG
+PlantVillage-Dataset/Tomato___Late_blight/cdda8dae-ea06-49fd-bdc3-12852b4105b2___GHLB2 Leaf 8843.JPG
+PlantVillage-Dataset/Tomato___Late_blight/da40dbcb-5ed7-428a-9c64-34c0b6ab7219___GHLB2 Leaf 9009.JPG
+PlantVillage-Dataset/Tomato___Late_blight/4eca7d70-60ff-41cc-8884-e4844f23abeb___GHLB2 Leaf 8641.JPG
+PlantVillage-Dataset/Tomato___Late_blight/f34d61c3-c2de-4ed5-858b-03c7b21ebcb6___RS_Late.B 5018.JPG
+PlantVillage-Dataset/Tomato___Late_blight/7f790574-ac82-4a3e-9a4d-02cd7762dce2___GHLB2 Leaf 8948.JPG
+PlantVillage-Dataset/Tomato___Late_blight/26d22895-7a72-4e27-99b7-222618d69b7b___RS_Late.B 5111.JPG
+PlantVillage-Dataset/Tomato___Late_blight/93c6117b-d192-4934-be00-8a6870704c78___RS_Late.B 6774.JPG
+PlantVillage-Dataset/Tomato___Late_blight/ce90a66b-6d07-4fc1-89bd-af0de0c5dee1___GHLB2 Leaf 108.JPG
+PlantVillage-Dataset/Tomato___Late_blight/5d5d8789-8979-4e2d-ac17-7228e8af61c9___RS_Late.B 5109.JPG
+PlantVillage-Dataset/Tomato___Late_blight/e56bc72a-6c24-4746-bd53-741c470e1be2___RS_Late.B 4990.JPG
+PlantVillage-Dataset/Tomato___Late_blight/a1f7a744-1d30-4343-992c-b1521d924094___GHLB2 Leaf 8563.JPG
+PlantVillage-Dataset/Tomato___Late_blight/ae8063cf-9ed2-43f6-a5ce-5c497d555f13___RS_Late.B 7146.JPG
+PlantVillage-Dataset/Tomato___Late_blight/73b30d1f-aa0b-47b0-8a4b-ee856be55431___GHLB2 Leaf 8672.JPG
+PlantVillage-Dataset/Tomato___Late_blight/9c726f4e-045b-4080-b53d-d7e66d45bcb1___RS_Late.B 4876.JPG
+PlantVillage-Dataset/Tomato___Late_blight/40bca58c-a09e-429b-a0b3-03fce3ea88e5___GHLB2 Leaf 9113.JPG
+PlantVillage-Dataset/Tomato___Late_blight/37dacc71-848d-43bd-8bb3-85ceafb11f91___GHLB2 Leaf 8605.JPG
+PlantVillage-Dataset/Tomato___Late_blight/718abdbd-f884-4d86-aa62-96275f9b6241___RS_Late.B 6065.JPG
+PlantVillage-Dataset/Tomato___Late_blight/7c163fda-ae67-4733-8fe3-f59d8ab20a5a___GHLB2 Leaf 8805.JPG
+PlantVillage-Dataset/Tomato___Late_blight/7e409fcc-0ff7-4d05-9852-e0f4495db3e8___RS_Late.B 6195.JPG
+PlantVillage-Dataset/Tomato___Late_blight/bf1dbfe2-cbad-428f-9d91-4a63de9121bd___RS_Late.B 5036.JPG
+PlantVillage-Dataset/Tomato___Late_blight/3c2f237b-3e91-455f-8064-428b308bc575___RS_Late.B 5291.JPG
+PlantVillage-Dataset/Tomato___Late_blight/2edc83c5-b45e-4f4e-ba56-1ff26c33abea___RS_Late.B 5614.JPG
+PlantVillage-Dataset/Tomato___Late_blight/63bd9158-43c2-4b8f-b4ee-a8935f8e3096___GHLB Leaf 1 Day 6.JPG
+PlantVillage-Dataset/Tomato___Late_blight/c47ca13e-af6a-4e74-bb38-12faeffd8eae___GHLB2 Leaf 163.1.JPG
+PlantVillage-Dataset/Tomato___Late_blight/37f580bd-7070-4cb0-b4ab-53b78ffc96ae___RS_Late.B 7109.JPG
+PlantVillage-Dataset/Tomato___Late_blight/b461fd42-7a0c-4b61-adb5-278f77dbc61a___RS_Late.B 5404.JPG
+PlantVillage-Dataset/Tomato___Late_blight/b3094af3-490b-4cbe-806e-dc793a94a4fd___RS_Late.B 6490.JPG
+PlantVillage-Dataset/Tomato___Late_blight/6dbfc1ca-37e7-4768-8009-4394e97c6c03___GHLB2 Leaf 8838.JPG
+PlantVillage-Dataset/Tomato___Late_blight/938a5ed3-127f-4e05-8e96-9d2225d094c7___GHLB2 Leaf 8784.JPG
+PlantVillage-Dataset/Tomato___Late_blight/704b80c3-ffea-41c4-9f18-e07e56740279___RS_Late.B 6817.JPG
+PlantVillage-Dataset/Tomato___Late_blight/be8780d8-bf1c-44c6-af2c-5d67fa08d15f___RS_Late.B 4847.JPG
+PlantVillage-Dataset/Tomato___Late_blight/eda41abe-61cf-439d-9562-e03fee3cd2ca___GHLB2 Leaf 8802.JPG
+PlantVillage-Dataset/Tomato___Late_blight/c4e95382-4bc7-4271-89ba-889f1dc55a2b___GHLB2 Leaf 9093.JPG
+PlantVillage-Dataset/Tomato___Late_blight/07cca2ca-6b0f-4322-8779-beb94bc219b0___RS_Late.B 6037.JPG
+PlantVillage-Dataset/Tomato___Late_blight/083bd43d-7dcb-4f3c-a0ca-6de1f468c9ef___RS_Late.B 5173.JPG
+PlantVillage-Dataset/Tomato___Late_blight/2159d0f7-09ef-46ad-ad49-749e8ce1becc___GHLB2 Leaf 8836.JPG
+PlantVillage-Dataset/Tomato___Late_blight/be22c9d7-82af-4062-89c3-24cc59d461dd___GHLB Leaf 1.6 Day 12.JPG
+PlantVillage-Dataset/Tomato___Late_blight/0736fe9f-bd15-4a85-ab6e-2b570b10f377___GHLB2 Leaf 64.1.JPG
+PlantVillage-Dataset/Tomato___Late_blight/dbecc777-f8a4-4222-9872-051d44b19b2c___RS_Late.B 6426.JPG
+PlantVillage-Dataset/Tomato___Late_blight/7d4d00c0-1e72-427d-9f05-1f64f8051cb8___GHLB_PS Leaf 1 Day 7.jpg
+PlantVillage-Dataset/Tomato___Late_blight/36193f11-7789-416d-b0dd-0cae49f74836___GHLB Leaf 23.2 Day 18.JPG
+PlantVillage-Dataset/Tomato___Late_blight/5ba6fbc5-a1de-4600-b0aa-9d8b8c222183___RS_Late.B 6181.JPG
+PlantVillage-Dataset/Tomato___Late_blight/19b2b71e-d648-46fb-921d-a7858a1c67c7___GHLB2 Leaf 9102.JPG
+PlantVillage-Dataset/Tomato___Late_blight/909832a0-b9f8-4624-894f-16b200489acb___GHLB2 Leaf 161.JPG
+PlantVillage-Dataset/Tomato___Late_blight/62ca9559-f079-4bac-864e-9da06a4eb3a2___GHLB2 Leaf 148.1.JPG
+PlantVillage-Dataset/Tomato___Late_blight/64984183-009e-4dba-a25a-f769bab08080___GHLB2 Leaf 8637.JPG
+PlantVillage-Dataset/Tomato___Late_blight/8224fe93-c0bc-47e1-8ef4-3572667de662___GHLB2 Leaf 8694.JPG
+PlantVillage-Dataset/Tomato___Late_blight/a202fc9d-50ed-43eb-9a75-348348549924___GHLB2 Leaf 8736.JPG
+PlantVillage-Dataset/Tomato___Late_blight/e980207c-6e67-4caf-8973-7128ca2a1c12___GHLB2 Leaf 8876.JPG
+PlantVillage-Dataset/Tomato___Late_blight/5df3ce66-bcba-4633-902e-15aaac6a3f94___GHLB2 Leaf 8842.JPG
+PlantVillage-Dataset/Tomato___Late_blight/a4cdb993-ba37-45c5-b845-ed5650516b39___GHLB2 Leaf 8878.JPG
+PlantVillage-Dataset/Tomato___Late_blight/695709e4-d869-4003-97eb-b2de21d5d1a5___GHLB2ES Leaf 62.1.JPG
+PlantVillage-Dataset/Tomato___Late_blight/123c4b62-8641-4d88-b8cd-1c2e24a6c3a5___GHLB_PS Leaf 26.2 Day 13.jpg
+PlantVillage-Dataset/Tomato___Late_blight/85d80245-6c80-4bb7-9497-c8612903b535___RS_Late.B 5576.JPG
+PlantVillage-Dataset/Tomato___Late_blight/a7049041-4ef3-4c55-b4bf-7721ca5630f4___RS_Late.B 5142.JPG
+PlantVillage-Dataset/Tomato___Late_blight/3811b546-53ab-4856-a1b2-b228229b09a4___RS_Late.B 6131.JPG
+PlantVillage-Dataset/Tomato___Late_blight/addfb0ca-2f18-4ed6-94e9-192ea15bf9e8___RS_Late.B 5616.JPG
+PlantVillage-Dataset/Tomato___Late_blight/d029a830-f39c-4668-b413-45b69e2b3640___RS_Late.B 4841.JPG
+PlantVillage-Dataset/Tomato___Late_blight/b2fb784b-5601-4b75-93b0-8dcaa7eaca6e___RS_Late.B 6419.JPG
+PlantVillage-Dataset/Tomato___Late_blight/f43df4fe-4544-4831-b9f9-a3c7b470b0e0___RS_Late.B 6801.JPG
+PlantVillage-Dataset/Tomato___Late_blight/136d79a3-4eea-4415-9f3e-0ccb61d7aeef___RS_Late.B 5216.JPG
+PlantVillage-Dataset/Tomato___Late_blight/26a317de-3882-41ca-a83d-5f1f106b9a85___RS_Late.B 4967.JPG
+PlantVillage-Dataset/Tomato___Late_blight/647fc3ec-00a2-4f1a-ad81-a5ed6ac25420___GHLB2 Leaf 8957.JPG
+PlantVillage-Dataset/Tomato___Late_blight/c9e551e1-6732-49e5-898e-a8dfbcc7b0c3___RS_Late.B 4959.JPG
+PlantVillage-Dataset/Tomato___Late_blight/15e1e8d7-e05a-4dc1-b872-364b15f004f0___RS_Late.B 4873.JPG
+PlantVillage-Dataset/Tomato___Late_blight/1aa4ebf9-7329-4108-94f6-8b6e9592d690___GHLB2 Leaf 98.1.JPG
+PlantVillage-Dataset/Tomato___Late_blight/c2f279ce-0890-4bfc-81a9-b896fa940027___GHLB2 Leaf 8542.JPG
+PlantVillage-Dataset/Tomato___Late_blight/a1f1f31f-36ab-49a9-bfb4-aa21ed90dfbc___RS_Late.B 4874.JPG
+PlantVillage-Dataset/Tomato___Late_blight/dbd83a4e-d95f-4ffe-8257-eaaa638b06a7___RS_Late.B 6548.JPG
+PlantVillage-Dataset/Tomato___Late_blight/afb626cf-c9bf-498f-bdf2-c0286d96f681___GHLB2 Leaf 147.1.JPG
+PlantVillage-Dataset/Tomato___Late_blight/57c53f65-3137-41d3-9bf7-7ac867f3efe8___RS_Late.B 6255.JPG
+PlantVillage-Dataset/Tomato___Late_blight/3ae2b5f3-a42f-49b1-8d27-dcfaaeda602f___GHLB2 Leaf 8840.JPG
+PlantVillage-Dataset/Tomato___Late_blight/58465768-148b-40c6-8534-e695e9c517d5___GHLB2 Leaf 95.1.JPG
+PlantVillage-Dataset/Tomato___Late_blight/d886ffed-a35b-4954-9066-b708c34fc998___GHLB2 Leaf 82.1.JPG
+PlantVillage-Dataset/Tomato___Late_blight/44e96c62-48e6-454c-bab5-c34569deb2a5___RS_Late.B 5162.JPG
+PlantVillage-Dataset/Tomato___Late_blight/0e669afb-1315-4903-b7ca-1a0ffa95d454___RS_Late.B 5626.JPG
+PlantVillage-Dataset/Tomato___Late_blight/38121028-f6a2-44f7-be49-5c4b7c296d1e___GHLB2 Leaf 9108.JPG
+PlantVillage-Dataset/Tomato___Late_blight/01425d17-4c97-46e3-b395-c1453b78ab78___GHLB2 Leaf 9100.JPG
+PlantVillage-Dataset/Tomato___Late_blight/eb1ee57d-0468-4a6c-941d-342cb60ea600___RS_Late.B 5420.JPG
+PlantVillage-Dataset/Tomato___Late_blight/27616ae1-2960-4aeb-a03b-91607439eaa0___RS_Late.B 5983.JPG
+PlantVillage-Dataset/Tomato___Late_blight/7b343a4c-5fbc-40f6-83da-ccae49ebd5fb___GHLB_PS Leaf 35 Day 13.jpg
+PlantVillage-Dataset/Tomato___Late_blight/674de9c3-1e13-46e2-9d5d-f75f97cff552___GHLB_PS Leaf 1 Day 18.jpg
+PlantVillage-Dataset/Tomato___Late_blight/ebc97633-07ff-405a-b186-18b8aa607b9d___GHLB2 Leaf 8635.JPG
+PlantVillage-Dataset/Tomato___Late_blight/edab4e30-5e08-4bf9-92eb-695d4472add6___RS_Late.B 5582.JPG
+PlantVillage-Dataset/Tomato___Late_blight/3f5d6de4-0966-4798-b142-78c4fb4097b5___GHLB2 Leaf 8628.JPG
+PlantVillage-Dataset/Tomato___Late_blight/f972ee8f-5f07-49a0-974c-b919b0ad5b0b___RS_Late.B 4961.JPG
+PlantVillage-Dataset/Tomato___Late_blight/e686c35e-fcb4-463b-ad2a-2c1da18135bb___GHLB2 Leaf 9023.JPG
+PlantVillage-Dataset/Tomato___Late_blight/39f11cfa-d3a8-4845-9cc8-8ffa2f707d66___RS_Late.B 6119.JPG
+PlantVillage-Dataset/Tomato___Late_blight/449c9233-a3bb-4743-874b-f5d092d652b9___GHLB2 Leaf 8975.JPG
+PlantVillage-Dataset/Tomato___Late_blight/1a895389-ec7f-4622-afaf-9afe6c16a26a___RS_Late.B 5172.JPG
+PlantVillage-Dataset/Tomato___Late_blight/7525f169-671f-4ec6-95f2-5bb54b6fd14d___GHLB Leaf 2.4 Day 13.JPG
+PlantVillage-Dataset/Tomato___Late_blight/7ec8c270-72a5-4c84-bfdb-400735f5b35c___GHLB_PS Leaf 46 Day 18.jpg
+PlantVillage-Dataset/Tomato___Late_blight/2e6c4476-c99f-4f05-a1bd-70701326a15d___GHLB2 Leaf 8925.JPG
+PlantVillage-Dataset/Tomato___Late_blight/c5150ba8-d8c4-47a3-9938-83715b767693___RS_Late.B 6912.JPG

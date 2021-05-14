@@ -1,0 +1,239 @@
+PlantVillage-Dataset/Tomato___healthy/74579097-2dd7-4d15-8f73-f09e7d919b51___RS_HL 9773.JPG
+PlantVillage-Dataset/Tomato___healthy/8140c767-937d-450c-8070-2936aeb73834___GH_HL Leaf 439.1.JPG
+PlantVillage-Dataset/Tomato___healthy/22e8c73b-41bf-4974-a244-d79730bcc5b1___RS_HL 0628.JPG
+PlantVillage-Dataset/Tomato___healthy/a7c1d137-6609-4659-94ce-81c62f64665e___RS_HL 0195.JPG
+PlantVillage-Dataset/Tomato___healthy/6120d8df-66a3-45c1-ae2f-bb8065928df4___RS_HL 0420.JPG
+PlantVillage-Dataset/Tomato___healthy/41dc5ea4-076f-4539-8cbb-6d4e53371c50___RS_HL 0472.JPG
+PlantVillage-Dataset/Tomato___healthy/3d0c2ad7-4fc4-48df-9ee0-11932921ddd0___RS_HL 0633.JPG
+PlantVillage-Dataset/Tomato___healthy/362f6311-e53a-4c35-80b4-8f865b662bd0___RS_HL 9649.JPG
+PlantVillage-Dataset/Tomato___healthy/1d598eb4-b055-4c4c-8b7e-b60990804957___RS_HL 9838.JPG
+PlantVillage-Dataset/Tomato___healthy/62e5933a-1405-4f56-b5c6-3bb6996465f5___RS_HL 0378.JPG
+PlantVillage-Dataset/Tomato___healthy/5f11bef5-6b09-4a9c-b0e1-6dfdd16f42d3___GH_HL Leaf 457.JPG
+PlantVillage-Dataset/Tomato___healthy/4af1cf6d-1bae-4e58-9168-2f6105a6fe9a___RS_HL 0608.JPG
+PlantVillage-Dataset/Tomato___healthy/78c0dc05-0bac-43fd-81b5-b10b61f666cd___GH_HL Leaf 481.5.JPG
+PlantVillage-Dataset/Tomato___healthy/7a5fe2a0-ac85-4a37-b0f6-8cfc8fb21c9c___RS_HL 9865.JPG
+PlantVillage-Dataset/Tomato___healthy/4758f78c-2d77-4f22-aee8-914c0745edcf___RS_HL 0434.JPG
+PlantVillage-Dataset/Tomato___healthy/4c2c45b2-7e33-4b1d-9125-b14b5ccafedd___RS_HL 9991.JPG
+PlantVillage-Dataset/Tomato___healthy/3eaf72d6-be20-4929-b6dc-58f6c9edf2bd___RS_HL 0031.JPG
+PlantVillage-Dataset/Tomato___healthy/85656232-738b-4a83-ab54-cfa6ecff99f1___RS_HL 0477.JPG
+PlantVillage-Dataset/Tomato___healthy/1a308834-fdd7-4121-ae03-5736d8d52e26___RS_HL 9689.JPG
+PlantVillage-Dataset/Tomato___healthy/c2c1758f-3576-4e8a-9853-5f11ac4d20d6___GH_HL Leaf 316.1.JPG
+PlantVillage-Dataset/Tomato___healthy/23a4712e-8805-43f7-9ae4-655d1c4799b0___RS_HL 0619.JPG
+PlantVillage-Dataset/Tomato___healthy/cae87492-704e-472a-8bc4-fea1ce042167___RS_HL 9915.JPG
+PlantVillage-Dataset/Tomato___healthy/b7e3a280-a031-475d-95b2-a1d2f0f49e02___GH_HL Leaf 279.JPG
+PlantVillage-Dataset/Tomato___healthy/2da51b05-179d-4072-9ac9-f6985c7a494c___RS_HL 0444.JPG
+PlantVillage-Dataset/Tomato___healthy/45167988-3f78-4309-8ce2-633d7521847f___GH_HL Leaf 432.1.JPG
+PlantVillage-Dataset/Tomato___healthy/02b4afdf-e1de-4c0e-a38d-3f19afeb9ea9___RS_HL 0493.JPG
+PlantVillage-Dataset/Tomato___healthy/1b6ac535-3a40-40c7-a626-d11181dfb5a4___GH_HL Leaf 304.JPG
+PlantVillage-Dataset/Tomato___healthy/d2f0f578-3b6e-433c-962a-8c81f79eab7a___RS_HL 9623.JPG
+PlantVillage-Dataset/Tomato___healthy/6246e722-c34f-46cf-b670-0f403456cea1___RS_HL 9969.JPG
+PlantVillage-Dataset/Tomato___healthy/4ed0a372-fe3d-49a6-82a1-2e904e6c66e3___GH_HL Leaf 200.JPG
+PlantVillage-Dataset/Tomato___healthy/4c3bf302-573e-4240-9d67-60412ea836d0___RS_HL 0254.JPG
+PlantVillage-Dataset/Tomato___healthy/07776423-f0af-455c-a7c1-36215c7e7097___RS_HL 0321.JPG
+PlantVillage-Dataset/Tomato___healthy/c900278c-3216-4142-8a6c-797143fc9c95___RS_HL 0299.JPG
+PlantVillage-Dataset/Tomato___healthy/c90b9b00-dbfe-4481-b643-861fcd59c536___RS_HL 0598.JPG
+PlantVillage-Dataset/Tomato___healthy/188107b9-d61f-4084-94da-4d5f8d9eedc1___RS_HL 0553.JPG
+PlantVillage-Dataset/Tomato___healthy/ecf64cfc-d521-48af-bb48-06edc78074c5___GH_HL Leaf 323.JPG
+PlantVillage-Dataset/Tomato___healthy/d7f9efa9-5684-42f4-b183-958a83d3ebcd___RS_HL 9923.JPG
+PlantVillage-Dataset/Tomato___healthy/2aeb668a-251a-4f68-b52f-aadeb3376d55___RS_HL 9744.JPG
+PlantVillage-Dataset/Tomato___healthy/d30f0e3c-7246-455d-959c-6221eac22dfd___GH_HL Leaf 202.JPG
+PlantVillage-Dataset/Tomato___healthy/0576ef4b-c843-4dfb-b148-c917f7d605b7___GH_HL Leaf 299.JPG
+PlantVillage-Dataset/Tomato___healthy/676eaef6-b16c-4f13-a39d-86c22f64da83___GH_HL Leaf 356.JPG
+PlantVillage-Dataset/Tomato___healthy/8ddc8178-4609-4267-bd55-028de3f759c8___RS_HL 0004.JPG
+PlantVillage-Dataset/Tomato___healthy/55204bbf-7eb5-488c-bcbd-e13f81953b57___RS_HL 0021.JPG
+PlantVillage-Dataset/Tomato___healthy/83eb200d-ef9d-4b98-b4c1-58b7f0b169e4___RS_HL 0421.JPG
+PlantVillage-Dataset/Tomato___healthy/8858ed06-2e1b-4a4a-bd16-e4425ae62312___GH_HL Leaf 523.1.JPG
+PlantVillage-Dataset/Tomato___healthy/47a87555-1411-43a3-85d2-5fb241ec089d___GH_HL Leaf 177.2.JPG
+PlantVillage-Dataset/Tomato___healthy/8834fdc1-4946-4cfc-a569-80eabaeebe1d___RS_HL 0154.JPG
+PlantVillage-Dataset/Tomato___healthy/5876e77a-8598-418c-bae2-b7492c8e46bd___RS_HL 9859.JPG
+PlantVillage-Dataset/Tomato___healthy/f7d044c0-6900-4624-9c20-fa27aa0911ff___GH_HL Leaf 275.JPG
+PlantVillage-Dataset/Tomato___healthy/64518a58-5c06-4a14-9ab6-2c4f71456050___GH_HL Leaf 394.JPG
+PlantVillage-Dataset/Tomato___healthy/a1414092-da7c-4e7e-9b25-6fb76e07285b___RS_HL 0247.JPG
+PlantVillage-Dataset/Tomato___healthy/87f08e15-5b2d-4d01-b83b-fd958eba02d4___GH_HL Leaf 434.2.JPG
+PlantVillage-Dataset/Tomato___healthy/0eb4ba9a-6626-4e46-b561-c226b495073d___RS_HL 9862.JPG
+PlantVillage-Dataset/Tomato___healthy/cf021ef4-2bde-4984-8604-c813cb195fe4___RS_HL 0490.JPG
+PlantVillage-Dataset/Tomato___healthy/f2f5162b-7cc7-4315-8692-d1eaab98c554___GH_HL Leaf 507.2.JPG
+PlantVillage-Dataset/Tomato___healthy/fe8f8808-2631-491e-a46b-bd2a1a4958e7___GH_HL Leaf 213.1.JPG
+PlantVillage-Dataset/Tomato___healthy/6b9b1ad6-3e75-4378-ad97-7dc9b8fa084e___GH_HL Leaf 179.1.JPG
+PlantVillage-Dataset/Tomato___healthy/22ebd26e-0388-4b07-8f48-bffb1680f350___RS_HL 9826.JPG
+PlantVillage-Dataset/Tomato___healthy/870b4923-2db1-4e01-827b-fbea6ed404cb___RS_HL 0164.JPG
+PlantVillage-Dataset/Tomato___healthy/89c3d1ee-38dd-4a9c-a9e9-f1c1e6004eff___RS_HL 0393.JPG
+PlantVillage-Dataset/Tomato___healthy/8e117b61-5360-49c8-aa55-4e90f8fae129___GH_HL Leaf 261.JPG
+PlantVillage-Dataset/Tomato___healthy/bb8861fc-350e-49da-86aa-1b475a2d5442___GH_HL Leaf 325.JPG
+PlantVillage-Dataset/Tomato___healthy/a8264fd4-d1e7-4114-b1e1-51b0f141db03___GH_HL Leaf 243.JPG
+PlantVillage-Dataset/Tomato___healthy/ca15ccb7-1f30-4dd6-aa46-8494a41c3a9d___RS_HL 9757.JPG
+PlantVillage-Dataset/Tomato___healthy/c5708e70-747e-44d9-ab7f-356157bfe0ec___RS_HL 9813.JPG
+PlantVillage-Dataset/Tomato___healthy/ad6857d9-7cf0-42ec-b61b-7b5208863831___RS_HL 0320.JPG
+PlantVillage-Dataset/Tomato___healthy/6da1cf1b-a236-4d45-a390-dac6b65c45f7___GH_HL Leaf 264.JPG
+PlantVillage-Dataset/Tomato___healthy/b917c931-67a8-4a67-9055-858c5e329b37___RS_HL 0590.JPG
+PlantVillage-Dataset/Tomato___healthy/7c879fc2-09b8-47ab-af57-2508cc854861___GH_HL Leaf 380.JPG
+PlantVillage-Dataset/Tomato___healthy/10716d69-324b-4423-9e1e-b09559babb89___GH_HL Leaf 267.1.JPG
+PlantVillage-Dataset/Tomato___healthy/3211fc4b-c216-46c3-9db7-b340684066b2___RS_HL 0360.JPG
+PlantVillage-Dataset/Tomato___healthy/4b696198-bb02-426d-bcbd-cc00177a0fb7___RS_HL 0093.JPG
+PlantVillage-Dataset/Tomato___healthy/0f20443a-193e-46b1-aea9-7ea614eb98ec___RS_HL 9850.JPG
+PlantVillage-Dataset/Tomato___healthy/025bc454-a051-42d2-b547-316f8cc3dc55___GH_HL Leaf 297.JPG
+PlantVillage-Dataset/Tomato___healthy/236971d6-725b-4685-9336-550dd522d62a___RS_HL 0640.JPG
+PlantVillage-Dataset/Tomato___healthy/2e97e18f-8ae2-4d5d-b7fb-64baeead1ed4___GH_HL Leaf 221.1.JPG
+PlantVillage-Dataset/Tomato___healthy/6fa01a78-0d8d-4ecf-b90f-4dbc2e89f2d9___RS_HL 0220.JPG
+PlantVillage-Dataset/Tomato___healthy/3c8a4977-eab9-4639-b12a-c1c42c7258f3___RS_HL 0432.JPG
+PlantVillage-Dataset/Tomato___healthy/8809940a-a097-4488-9e49-3ffdc10d8d9a___GH_HL Leaf 245.JPG
+PlantVillage-Dataset/Tomato___healthy/98e0a217-023f-45ad-a1b7-3719a5fdea49___GH_HL Leaf 283.JPG
+PlantVillage-Dataset/Tomato___healthy/2d4db3f7-a768-4a27-832c-fc72496e79b4___GH_HL Leaf 446.JPG
+PlantVillage-Dataset/Tomato___healthy/5044fab8-1e1b-4f9c-a477-3ee8497d0c75___RS_HL 0287.JPG
+PlantVillage-Dataset/Tomato___healthy/e9f02b46-dbb7-4f41-a1dc-6fe5dfe13d23___RS_HL 9821.JPG
+PlantVillage-Dataset/Tomato___healthy/33936d1f-7074-49d2-9b3e-3964972fc636___RS_HL 0119.JPG
+PlantVillage-Dataset/Tomato___healthy/8c4cf935-765a-4689-a093-08e8c64fb124___GH_HL Leaf 369.JPG
+PlantVillage-Dataset/Tomato___healthy/f1e20811-da4e-4f0f-b8ee-f325d90f6481___RS_HL 0084.JPG
+PlantVillage-Dataset/Tomato___healthy/a154b0c0-ad46-47ec-b9f4-50a4ee625849___RS_HL 9827.JPG
+PlantVillage-Dataset/Tomato___healthy/0c4b06d5-4053-44fc-99b6-504934fdd3a9___GH_HL Leaf 199.1.JPG
+PlantVillage-Dataset/Tomato___healthy/83d9992c-b4ee-41f5-b3eb-792afd464f4e___RS_HL 9629.JPG
+PlantVillage-Dataset/Tomato___healthy/fab41c44-a8b6-4821-8ffa-08a2c1234970___RS_HL 0070.JPG
+PlantVillage-Dataset/Tomato___healthy/b485c91b-36c7-42be-9572-69327a0ece88___RS_HL 9678.JPG
+PlantVillage-Dataset/Tomato___healthy/18fa622c-8257-479a-9c81-7a6fe9a3a41b___GH_HL Leaf 428.JPG
+PlantVillage-Dataset/Tomato___healthy/e7a9a772-95f5-4bd4-ad34-831c3c47c024___RS_HL 9909.JPG
+PlantVillage-Dataset/Tomato___healthy/ec768816-02c1-4726-9374-b6d0ccec49d2___RS_HL 0114.JPG
+PlantVillage-Dataset/Tomato___healthy/67fb6b30-9542-4606-9438-da3e96b6a2d7___GH_HL Leaf 213.2.JPG
+PlantVillage-Dataset/Tomato___healthy/b4a854a1-cd40-4bac-b377-97fc49b8314c___RS_HL 9628.JPG
+PlantVillage-Dataset/Tomato___healthy/221b0575-215a-430d-a728-60020b7ad160___GH_HL Leaf 340.JPG
+PlantVillage-Dataset/Tomato___healthy/b4f405ee-4471-4af5-b0c1-a4bc2aed730e___GH_HL Leaf 358.1.JPG
+PlantVillage-Dataset/Tomato___healthy/a5a6aa27-9a67-486e-853d-50ccdd1d8c21___RS_HL 0170.JPG
+PlantVillage-Dataset/Tomato___healthy/e7d07408-70bb-421d-9224-df4961a01cb9___GH_HL Leaf 509.1.JPG
+PlantVillage-Dataset/Tomato___healthy/1f43d81a-6889-4613-a727-f92a75cf9861___RS_HL 0297.JPG
+PlantVillage-Dataset/Tomato___healthy/883b7c13-7aef-4ae9-bd70-065a16226e9d___GH_HL Leaf 170.1.JPG
+PlantVillage-Dataset/Tomato___healthy/decd2c69-c302-461a-a2f7-7c1e37d9d633___RS_HL 0258.JPG
+PlantVillage-Dataset/Tomato___healthy/79e298b2-32c5-40c6-abb7-67bb7f174751___GH_HL Leaf 391.JPG
+PlantVillage-Dataset/Tomato___healthy/4806eef9-06a4-4da8-9327-939641fbb260___RS_HL 9692.JPG
+PlantVillage-Dataset/Tomato___healthy/1352e7ea-9a81-44fb-98e9-25ee6c701753___RS_HL 0549.JPG
+PlantVillage-Dataset/Tomato___healthy/c7f91fa4-3769-45ef-a494-1669ee62ee7a___RS_HL 9812.JPG
+PlantVillage-Dataset/Tomato___healthy/66fb848b-843a-469d-a2d2-80f0e0e7eda4___GH_HL Leaf 371.1.JPG
+PlantVillage-Dataset/Tomato___healthy/cea3c7e9-94d8-4f97-bd50-e19a428c5162___RS_HL 0013.JPG
+PlantVillage-Dataset/Tomato___healthy/dca7fa13-14bd-4d24-abbf-1fe2e02eac7e___GH_HL Leaf 295.JPG
+PlantVillage-Dataset/Tomato___healthy/fb123526-11fd-4d0d-96cc-3423da0b61a2___RS_HL 9756.JPG
+PlantVillage-Dataset/Tomato___healthy/bd7ec723-4020-4d73-96b4-8c57c94e93fe___GH_HL Leaf 382.2.JPG
+PlantVillage-Dataset/Tomato___healthy/509601a4-652c-4666-bb90-44e4a6d98062___RS_HL 9764.JPG
+PlantVillage-Dataset/Tomato___healthy/f7df2411-8e50-46e1-b43a-cca357bee1af___GH_HL Leaf 521.1.JPG
+PlantVillage-Dataset/Tomato___healthy/19e31197-5f6d-4925-975c-884bd4a94bfe___RS_HL 0291.JPG
+PlantVillage-Dataset/Tomato___healthy/0971aa89-8f72-4f66-b4ee-dceca73add54___GH_HL Leaf 318.JPG
+PlantVillage-Dataset/Tomato___healthy/c1413079-dfb4-41c5-b129-bc5b6b419e0e___RS_HL 0133.JPG
+PlantVillage-Dataset/Tomato___healthy/2d66100e-9a61-412b-95da-2b852de7a447___RS_HL 9950.JPG
+PlantVillage-Dataset/Tomato___healthy/f7069452-9405-45a6-bfb3-f21ea42b9b02___RS_HL 9966.JPG
+PlantVillage-Dataset/Tomato___healthy/085cbe78-1d5c-45eb-877f-f409526032d5___GH_HL Leaf 469.JPG
+PlantVillage-Dataset/Tomato___healthy/d88b90c0-2850-425d-af82-7bfb0f6a9dd4___GH_HL Leaf 361.JPG
+PlantVillage-Dataset/Tomato___healthy/1a393116-cbd1-4e3f-acfc-563e96ae1e80___RS_HL 0268.JPG
+PlantVillage-Dataset/Tomato___healthy/92482fe8-95b5-48b9-b32e-eadc3ab6ac59___RS_HL 9901.JPG
+PlantVillage-Dataset/Tomato___healthy/425e5c47-5495-40ad-8c96-6c51768bc673___RS_HL 0025.JPG
+PlantVillage-Dataset/Tomato___healthy/1317fd49-1819-4065-b3a4-d74f9763c7c4___RS_HL 0252.JPG
+PlantVillage-Dataset/Tomato___healthy/65d89a16-45b5-4ce7-9dad-f702c4b14e95___RS_HL 9896.JPG
+PlantVillage-Dataset/Tomato___healthy/991e23a3-fcbf-492b-8972-625779855b0e___RS_HL 0486.JPG
+PlantVillage-Dataset/Tomato___healthy/ec754608-21ce-40be-abd0-46a664257065___RS_HL 0376.JPG
+PlantVillage-Dataset/Tomato___healthy/d45c5eb7-c7b7-430b-9b2c-917a4a34315e___RS_HL 0151.JPG
+PlantVillage-Dataset/Tomato___healthy/da1015eb-5c8e-436d-b367-d1f98a034e44___RS_HL 0382.JPG
+PlantVillage-Dataset/Tomato___healthy/7e0f5a39-e44e-40fe-8486-f369cb59895b___RS_HL 9790.JPG
+PlantVillage-Dataset/Tomato___healthy/109f3e0e-e7f4-41b9-b450-f68750e144ae___RS_HL 0014.JPG
+PlantVillage-Dataset/Tomato___healthy/cd469bb3-30c8-4cad-9b4e-27c77a538dfa___GH_HL Leaf 392.JPG
+PlantVillage-Dataset/Tomato___healthy/92d04528-2709-4cc0-8e98-bdfe2ef97143___RS_HL 9808.JPG
+PlantVillage-Dataset/Tomato___healthy/d247170c-6756-41f0-9074-09190f485cdb___RS_HL 0034.JPG
+PlantVillage-Dataset/Tomato___healthy/709ca1e9-9c0f-4ebb-a3c1-529675210010___GH_HL Leaf 310.JPG
+PlantVillage-Dataset/Tomato___healthy/e62a7ec8-3e5e-4a47-be14-a57db0322bb6___RS_HL 9627.JPG
+PlantVillage-Dataset/Tomato___healthy/3b0d89df-61d0-407f-9a26-661c8bb730cf___GH_HL Leaf 242.JPG
+PlantVillage-Dataset/Tomato___healthy/12c28bfa-a576-4787-8d4e-a500ac446766___RS_HL 0526.JPG
+PlantVillage-Dataset/Tomato___healthy/24fe1921-3196-4125-8f96-d68edef32487___RS_HL 0109.JPG
+PlantVillage-Dataset/Tomato___healthy/c978eccc-99c6-45d0-879c-713167f863f4___RS_HL 9888.JPG
+PlantVillage-Dataset/Tomato___healthy/e0b87789-7d59-4bd1-bc78-ec3a942021f4___RS_HL 9894.JPG
+PlantVillage-Dataset/Tomato___healthy/3b247bc2-44d4-4fea-ae3e-aef886d27e45___RS_HL 0584.JPG
+PlantVillage-Dataset/Tomato___healthy/d074483d-5063-4bed-93f5-c0d798e9283c___RS_HL 0231.JPG
+PlantVillage-Dataset/Tomato___healthy/1e4aef32-09c5-4af8-8948-dc86bd8ef2e7___GH_HL Leaf 215.1.JPG
+PlantVillage-Dataset/Tomato___healthy/cf4431f9-8b69-46dd-80fb-732f1a652027___RS_HL 0510.JPG
+PlantVillage-Dataset/Tomato___healthy/80ad21d3-4571-49bd-a96e-2f75e9a9b673___RS_HL 9729.JPG
+PlantVillage-Dataset/Tomato___healthy/f1b0ad53-6f2a-44bd-9f58-da590c9cdde2___GH_HL Leaf 371.JPG
+PlantVillage-Dataset/Tomato___healthy/25080b1c-6c0f-4b11-bb31-b5cfb2429395___GH_HL Leaf 238.JPG
+PlantVillage-Dataset/Tomato___healthy/5b28f6a8-cf40-4f35-82ad-16470dd69bd5___RS_HL 9658.JPG
+PlantVillage-Dataset/Tomato___healthy/d984f436-1fde-4221-9563-82f55a42b545___RS_HL 0217.JPG
+PlantVillage-Dataset/Tomato___healthy/27bda660-1691-4763-a125-824f521587d9___RS_HL 0305.JPG
+PlantVillage-Dataset/Tomato___healthy/c43b1ab2-6886-4f6d-88cb-b01d1c73e1b0___GH_HL Leaf 368.JPG
+PlantVillage-Dataset/Tomato___healthy/fde29807-8223-4fc5-a06b-7cc93101a6d1___GH_HL Leaf 174.JPG
+PlantVillage-Dataset/Tomato___healthy/06ee1c8d-fbe4-48e9-a1b2-fed7ed5539f7___GH_HL Leaf 293.JPG
+PlantVillage-Dataset/Tomato___healthy/17b48132-9a1d-45e5-9000-30ebd7248273___RS_HL 0385.JPG
+PlantVillage-Dataset/Tomato___healthy/bb9683d5-9302-4525-bd77-05153f65ffa3___RS_HL 0623.JPG
+PlantVillage-Dataset/Tomato___healthy/4ed95a13-f09b-452e-84d0-b4b6a94a022d___RS_HL 9975.JPG
+PlantVillage-Dataset/Tomato___healthy/7f7b6cff-3d29-45ad-a0df-56f568289be9___GH_HL Leaf 506.1.JPG
+PlantVillage-Dataset/Tomato___healthy/630ae481-49e7-470c-ad05-177132a6648a___RS_HL 0178.JPG
+PlantVillage-Dataset/Tomato___healthy/dad127e0-8761-47bd-8ea1-21727847a1f4___RS_HL 0416.JPG
+PlantVillage-Dataset/Tomato___healthy/162db449-3361-40fa-a9bf-42bb63d43781___RS_HL 9647.JPG
+PlantVillage-Dataset/Tomato___healthy/31e077d4-97f5-4e4c-8b76-e2ccbf52ed2d___RS_HL 0460.JPG
+PlantVillage-Dataset/Tomato___healthy/8eb8512f-fbbe-4415-832a-52e58e3cde9e___RS_HL 0003.JPG
+PlantVillage-Dataset/Tomato___healthy/d19a7818-769b-4633-bd09-5c3c20d2b4d1___GH_HL Leaf 172.JPG
+PlantVillage-Dataset/Tomato___healthy/57cc95ac-1fae-4959-ba16-d65c3db753d1___RS_HL 0312.JPG
+PlantVillage-Dataset/Tomato___healthy/0d789240-9714-4378-8b63-4afb12ddfa44___RS_HL 9735.JPG
+PlantVillage-Dataset/Tomato___healthy/5dd2a498-7eff-4da7-9c0f-8c394103e52c___RS_HL 0611.JPG
+PlantVillage-Dataset/Tomato___healthy/5733d6bf-494a-4da8-a15f-5903f4f05807___RS_HL 0259.JPG
+PlantVillage-Dataset/Tomato___healthy/62fa284f-8fc8-46b7-a74d-71bada562464___RS_HL 0303.JPG
+PlantVillage-Dataset/Tomato___healthy/0920bfd6-6c70-432b-be33-cccb6abb0f31___GH_HL Leaf 181.1.JPG
+PlantVillage-Dataset/Tomato___healthy/6c46af84-675e-4e35-8309-169c20ae8b62___RS_HL 0383.JPG
+PlantVillage-Dataset/Tomato___healthy/ff774aec-2504-4d11-8a61-2fd74c689a6f___RS_HL 9904.JPG
+PlantVillage-Dataset/Tomato___healthy/003944fc-3b99-4a0f-9ed4-0e07352fd8b3___RS_HL 9844.JPG
+PlantVillage-Dataset/Tomato___healthy/ae17a302-03cb-48c7-aee2-6d9a859ce5dc___RS_HL 9811.JPG
+PlantVillage-Dataset/Tomato___healthy/6fc5b781-6757-459f-af96-09a67dbcb2bc___RS_HL 0607.JPG
+PlantVillage-Dataset/Tomato___healthy/8940094d-3432-4690-b2b7-9a5996a82f86___RS_HL 0426.JPG
+PlantVillage-Dataset/Tomato___healthy/45b3e6ad-f79c-4132-9bb5-9e9d26cbdfce___RS_HL 9908.JPG
+PlantVillage-Dataset/Tomato___healthy/579cec1c-8304-4b8c-84bb-be54a7e8c93f___GH_HL Leaf 367.JPG
+PlantVillage-Dataset/Tomato___healthy/e73f62f9-46f5-4827-a891-169cd96e066e___RS_HL 0467.JPG
+PlantVillage-Dataset/Tomato___healthy/879b48e5-11f8-4989-8226-08af79bd6eb1___RS_HL 0453.JPG
+PlantVillage-Dataset/Tomato___healthy/82df832d-43d4-41c5-97b8-baf8ff9c658c___RS_HL 9917.JPG
+PlantVillage-Dataset/Tomato___healthy/b91da997-c7c4-44aa-b00c-e558887d0ba6___GH_HL Leaf 368.1.JPG
+PlantVillage-Dataset/Tomato___healthy/20d823a4-0be3-4b8a-acdc-6efd1236e7f0___GH_HL Leaf 254.2.JPG
+PlantVillage-Dataset/Tomato___healthy/1d024f2a-0ceb-4560-81fc-1114e6341f02___RS_HL 0431.JPG
+PlantVillage-Dataset/Tomato___healthy/0f809e80-ee2b-4ad4-9a80-50d789298d48___GH_HL Leaf 192.JPG
+PlantVillage-Dataset/Tomato___healthy/20d3ba25-f161-4ede-a42a-7a3020ebda3d___RS_HL 0124.JPG
+PlantVillage-Dataset/Tomato___healthy/1480b935-0081-4052-a7e8-09ef0040d9b5___GH_HL Leaf 338.JPG
+PlantVillage-Dataset/Tomato___healthy/5c00f8ca-ad19-4df3-a1ac-8b6aefc0ddd5___RS_HL 0319.JPG
+PlantVillage-Dataset/Tomato___healthy/958b8eb8-7004-434a-ad02-e62ff64dded0___RS_HL 0276.JPG
+PlantVillage-Dataset/Tomato___healthy/014b5e19-7917-4d76-b632-b5dd31d999ec___RS_HL 9640.JPG
+PlantVillage-Dataset/Tomato___healthy/a8fffa7c-14eb-4b8c-8628-7349dd2a4561___RS_HL 9925.JPG
+PlantVillage-Dataset/Tomato___healthy/13e0d497-f5fc-4fb9-9e9a-cb77bc330730___RS_HL 0397.JPG
+PlantVillage-Dataset/Tomato___healthy/73815ecf-ee85-4bba-864f-f47d01a96615___RS_HL 0348.JPG
+PlantVillage-Dataset/Tomato___healthy/933b7a1c-5015-48df-8c2d-b7fdf918a4db___GH_HL Leaf 490.1.JPG
+PlantVillage-Dataset/Tomato___healthy/e357a876-daff-428c-828f-7f1b6e998175___RS_HL 0593.JPG
+PlantVillage-Dataset/Tomato___healthy/84d5645b-619e-4882-a1d5-3a3abec47da3___RS_HL 0568.JPG
+PlantVillage-Dataset/Tomato___healthy/9b5626b0-ea1d-45d0-bc41-c898f7253a75___GH_HL Leaf 315.2.JPG
+PlantVillage-Dataset/Tomato___healthy/ae745e4a-eecc-40dd-b860-25bdee6729e3___GH_HL Leaf 417.2.JPG
+PlantVillage-Dataset/Tomato___healthy/0782c04b-2a91-4e10-89a7-cf3d3e48be82___RS_HL 9645.JPG
+PlantVillage-Dataset/Tomato___healthy/30c8f7b8-e0cf-4cfb-b7fe-e2b75ce22789___GH_HL Leaf 333.1.JPG
+PlantVillage-Dataset/Tomato___healthy/b0bf12cb-8868-4762-bd27-8cb3ebf69594___GH_HL Leaf 512.1.JPG
+PlantVillage-Dataset/Tomato___healthy/b2652ef9-f0d2-4039-b40a-520073551b16___RS_HL 0009.JPG
+PlantVillage-Dataset/Tomato___healthy/38670ac4-67ad-4b00-a37b-3fb82d58aa86___RS_HL 9762.JPG
+PlantVillage-Dataset/Tomato___healthy/d84eb3b6-3321-4034-9bcc-d2cddb8a3467___RS_HL 0053.JPG
+PlantVillage-Dataset/Tomato___healthy/7b246e09-0a8c-4078-9e0a-6207de8dc804___RS_HL 9809.JPG
+PlantVillage-Dataset/Tomato___healthy/3280ef48-8260-4a34-8e37-e079b74ed160___RS_HL 0392.JPG
+PlantVillage-Dataset/Tomato___healthy/e55fc417-6c08-4150-913e-11e7c7e15eb7___RS_HL 0504.JPG
+PlantVillage-Dataset/Tomato___healthy/b3eaae0f-95b4-4bb5-89b5-4460cf79e554___RS_HL 0583.JPG
+PlantVillage-Dataset/Tomato___healthy/07cb5416-a029-467f-a306-252c2a64d2e6___RS_HL 0543.JPG
+PlantVillage-Dataset/Tomato___healthy/b66ce067-f338-4ae5-8f62-578ce164456a___RS_HL 0610.JPG
+PlantVillage-Dataset/Tomato___healthy/da10b674-6bd2-4e1f-ba50-f08caac7a2ec___RS_HL 9742.JPG
+PlantVillage-Dataset/Tomato___healthy/0f9a114d-1df8-442c-90e7-d14d2f6efb23___RS_HL 9964.JPG
+PlantVillage-Dataset/Tomato___healthy/f32a71f9-5468-4169-aa2f-e895f070bfc7___RS_HL 9997.JPG
+PlantVillage-Dataset/Tomato___healthy/f62d9b06-1625-4277-9347-0f3097c41fcf___GH_HL Leaf 518.2.JPG
+PlantVillage-Dataset/Tomato___healthy/bab33032-182b-43c7-8eea-392267cd11ef___RS_HL 9822.JPG
+PlantVillage-Dataset/Tomato___healthy/bae543d4-d61d-45e6-aa0c-eaf45af53456___GH_HL Leaf 349.JPG
+PlantVillage-Dataset/Tomato___healthy/3887cbce-afde-4244-b39e-25ee0c9e24fc___GH_HL Leaf 235.1.JPG
+PlantVillage-Dataset/Tomato___healthy/8d39c92d-db17-4a32-a350-1fa670fe2268___GH_HL Leaf 224.JPG
+PlantVillage-Dataset/Tomato___healthy/8ee7fa28-296c-4cf0-970b-d2015b1b75e8___GH_HL Leaf 327.JPG
+PlantVillage-Dataset/Tomato___healthy/0c3eaf2d-8203-441d-9248-1c64e00b5b8b___RS_HL 0018.JPG
+PlantVillage-Dataset/Tomato___healthy/51e66b4b-c192-432f-bc52-d1c86a8da427___GH_HL Leaf 397.JPG
+PlantVillage-Dataset/Tomato___healthy/1457ca6a-4907-4c97-83f8-a0fa22135a27___RS_HL 0441.JPG
+PlantVillage-Dataset/Tomato___healthy/c25ca040-07f4-4882-b5c9-e8083ba994a2___GH_HL Leaf 417.1.JPG
+PlantVillage-Dataset/Tomato___healthy/0a31e630-0d98-416b-b0e4-88a88aad1dc5___RS_HL 9653.JPG
+PlantVillage-Dataset/Tomato___healthy/1ca3c77d-13d8-43cc-929f-9c3a79e5dd1b___RS_HL 0250.JPG
+PlantVillage-Dataset/Tomato___healthy/a1aa732c-1c39-4c6b-b5d1-e0ea7a8587a5___RS_HL 0565.JPG
+PlantVillage-Dataset/Tomato___healthy/461aa22a-be16-4dc8-9d60-45c38eabe504___RS_HL 0501.JPG
+PlantVillage-Dataset/Tomato___healthy/cfd491d6-4af5-4728-8f0e-0d330a07174a___GH_HL Leaf 482.2.JPG
+PlantVillage-Dataset/Tomato___healthy/b9c8c02c-146e-4d10-b16d-d6d4b245eff9___GH_HL Leaf 233.1.JPG
+PlantVillage-Dataset/Tomato___healthy/1b150c8d-ab5d-43b5-a61d-c3fb3a8ffd54___GH_HL Leaf 321.JPG
+PlantVillage-Dataset/Tomato___healthy/14385f16-4e7f-401f-889a-8c1535ed85ba___GH_HL Leaf 503.5.JPG
+PlantVillage-Dataset/Tomato___healthy/e6782c6b-bf00-492d-a30e-966fd641b823___RS_HL 9939.JPG
+PlantVillage-Dataset/Tomato___healthy/9dc940f8-cd79-4341-95ef-f845583d9dff___RS_HL 9751.JPG
+PlantVillage-Dataset/Tomato___healthy/75a4f049-e99c-4666-845f-7b1577dbd662___RS_HL 9955.JPG
+PlantVillage-Dataset/Tomato___healthy/083426c2-0042-4788-91ea-b7d93395c24a___RS_HL 9929.JPG
+PlantVillage-Dataset/Tomato___healthy/daa4e664-5ec5-4349-b8de-0673cdfe374d___GH_HL Leaf 168.1.JPG
+PlantVillage-Dataset/Tomato___healthy/c04a8a0a-2ab7-4494-9fa3-88aea29338d8___RS_HL 0015.JPG
+PlantVillage-Dataset/Tomato___healthy/6883c31a-78b4-406a-9605-b6b31e0932cc___RS_HL 0037.JPG

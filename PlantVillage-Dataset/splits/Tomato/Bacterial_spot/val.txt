@@ -1,0 +1,319 @@
+PlantVillage-Dataset/Tomato___Bacterial_spot/c1d96cfa-8e15-4f99-a142-f908514baabb___GCREC_Bact.Sp 6096.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/f332d822-2557-42ee-ba97-c62cafcc5c29___GCREC_Bact.Sp 3172.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/ebe3ca2e-87b3-4760-a407-c890f977fec9___GCREC_Bact.Sp 6290.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/ea184fd1-b4aa-4121-b88b-ef833d6465d2___GCREC_Bact.Sp 6067.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/34385d7a-a724-4577-898b-dc9b9deb8ed9___GCREC_Bact.Sp 6098.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/6bbdcbc3-2969-4eec-b375-97bd4272fc89___GCREC_Bact.Sp 3669.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/fd98f535-7c9d-497c-8d77-3f12d0dc85bb___GCREC_Bact.Sp 3243.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/a3666572-94a1-4cc7-8caa-f7e43a1d64a4___GCREC_Bact.Sp 5909.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/8dabe407-48fd-4cd2-9210-0dffdf259cb3___GCREC_Bact.Sp 3549.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/098b62a4-f92b-4c0d-9ab9-a6061a9d1625___GCREC_Bact.Sp 2955.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/8d1daa35-ff4d-4c3d-80b5-511a8034750a___GCREC_Bact.Sp 3289.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/a9b91a6d-80e7-4234-9a0f-6298ba147a84___GCREC_Bact.Sp 3007.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/c10643e1-3d5a-40f6-9357-57aadd3d6721___GCREC_Bact.Sp 3727.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/8dfa0112-8bb4-411d-a2f2-f97f1f39df62___GCREC_Bact.Sp 5714.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/41ad4c6f-cc69-438e-ac9a-431fc692824b___GCREC_Bact.Sp 3372.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/ef79c0ac-b8c5-437b-8d10-971f819b4ab8___GCREC_Bact.Sp 6084.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/b1dd4d7d-40ab-40bc-8246-5dabfac9dbd9___GCREC_Bact.Sp 3488.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/f24c87bb-3965-435e-b189-0f9c924f9015___GCREC_Bact.Sp 3741.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/8d79a02d-108c-4edc-ba25-9eb38a107093___UF.GRC_BS_Lab Leaf 0560.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/4611cf04-efee-4c3b-83e7-e1d8325663ae___GCREC_Bact.Sp 5845.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/a7059350-86ef-4cc0-935d-c9cb678380cd___GCREC_Bact.Sp 6392.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/a9045c2f-df74-4d31-8e2f-f3ce3d6753e2___GCREC_Bact.Sp 3026.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/a4106180-8662-4e07-b7dd-3a80c7fd08dd___GCREC_Bact.Sp 6230.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/a9113641-1f7b-4f81-8bdb-56efadec1cb3___GCREC_Bact.Sp 6203.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/9496a9b6-5474-4163-bfa0-2e3d25ca252d___GCREC_Bact.Sp 3489.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/1347d766-5747-4d71-b05f-0211e79930b4___GCREC_Bact.Sp 6227.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/5317478a-63d0-4ba5-a23d-983e9bbf2635___GCREC_Bact.Sp 6369.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/6a416698-31f1-4625-8c83-195721e70508___GCREC_Bact.Sp 3339.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/bf0ce672-d1b8-49a7-a41e-5026715930e9___GCREC_Bact.Sp 6040.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/7712359a-9f55-4d3a-8bb5-c123ebf1957e___GCREC_Bact.Sp 6022.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/5eeede3b-6469-48f4-9bd9-56732ee3c4cf___UF.GRC_BS_Lab Leaf 0627.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/1abfbe87-b6e5-4da0-85e9-13980c67fd03___GCREC_Bact.Sp 3295.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/2fa031cf-7326-46a8-a565-2ce27d003e2d___GCREC_Bact.Sp 5884.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/6ce45b91-cc8a-4026-a1bd-28b1365b78a4___GCREC_Bact.Sp 5597.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/4e726fa5-592c-4e69-a29e-4fc466d82597___GCREC_Bact.Sp 3377.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/3156f2fa-aa71-4759-8af0-960188c68519___GCREC_Bact.Sp 3235.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/95a89332-3fb0-49cd-98f4-3f1551ebcd6f___UF.GRC_BS_Lab Leaf 0406.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/034caf25-29c3-4be2-a725-d2866ce6f548___GCREC_Bact.Sp 3575.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/9f7e3b19-dd2c-4e1f-b339-d0c180d2c453___GCREC_Bact.Sp 5810.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/8f5439b2-dd11-4410-a0c0-1446c13c30b5___GCREC_Bact.Sp 3448.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/6992f9df-55ea-43ff-b1ee-96b200f9fd72___GCREC_Bact.Sp 5544.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/fd39fa01-b5c6-443d-a5f8-5e6edee2fdf8___GCREC_Bact.Sp 3154.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/15d45247-ffcd-4d50-87a1-5f0527e451e9___GCREC_Bact.Sp 3763.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/1aeee055-1c5f-4aab-a4af-bfe860f7dc46___GCREC_Bact.Sp 3034.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/1b752a19-0731-4f93-b9ad-ca01fff2ab8b___GCREC_Bact.Sp 6048.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/69c8f994-3b9e-4629-9fb9-d06a9cca522e___GCREC_Bact.Sp 5875.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/b9d57ea9-6651-4a64-a6ec-6551ac190d5c___GCREC_Bact.Sp 3078.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/a1d8e2a7-c4c9-42d2-8a0d-bcf04053412f___GCREC_Bact.Sp 5672.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/5faeaff0-1dcd-4c79-b6ad-22908cc519ac___GCREC_Bact.Sp 5655.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/58fa9688-9bbc-4d28-8aae-61448feeeb1f___GCREC_Bact.Sp 6340.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/c3fbdba4-a285-463b-a3fd-26d0d4a4d936___GCREC_Bact.Sp 3677.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/a58b67cf-4035-4cdd-8bf7-477a8d8bece8___GCREC_Bact.Sp 5564.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/64208676-e4c1-4f27-84ba-38c7e0790320___GCREC_Bact.Sp 3779.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/1c78d892-4190-488d-b8d3-cf1c63c658f0___GCREC_Bact.Sp 3006.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/54692b7d-86bd-45db-b3c7-30dc1964a137___GCREC_Bact.Sp 6265.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/fc6a1ebf-65e5-45f1-be33-1f2bd3dc4d71___GCREC_Bact.Sp 3511.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/2f8a0ddd-dbc7-4c67-a993-2e6e7c79094e___GCREC_Bact.Sp 5966.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/974bfda6-f0ea-48a4-965e-9346c8f2f17b___GCREC_Bact.Sp 6237.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/1e0582c9-3b55-4aaf-b63b-f223c13eac86___GCREC_Bact.Sp 5571.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/41c2f403-dd59-43dc-9b36-f5e277954630___UF.GRC_BS_Lab Leaf 8986.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/5125393a-d835-478f-acf2-d40bfa421d5b___UF.GRC_BS_Lab Leaf 0458.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/ae52258c-eaab-4794-b6d5-601544d2e792___UF.GRC_BS_Lab Leaf 1068.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/793c4393-0e98-4de2-bbb2-eb0c8412a959___GCREC_Bact.Sp 5621.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/12eda6e1-d42f-4e52-b04f-ff4f4d932783___GCREC_Bact.Sp 6275.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/ef71eeaa-1a9c-41f6-8cbe-394a441b3f0c___GCREC_Bact.Sp 3507.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/a9b47216-7d6d-46f6-b029-7aacd6f26113___UF.GRC_BS_Lab Leaf 0862.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/e41ca477-b751-45f7-9a19-3442349e45ef___GCREC_Bact.Sp 3254.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/e18a4fc4-f116-4eef-8cca-d62a2798ac8d___GCREC_Bact.Sp 3743.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/934f7497-94be-4557-8e25-6bc9b27ba7ba___UF.GRC_BS_Lab Leaf 0392.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/2b6acf2e-3476-48a4-baa4-51aa62278537___GCREC_Bact.Sp 2977.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/16912266-6a1b-426c-9e58-2f0ff1a4e35a___UF.GRC_BS_Lab Leaf 8673.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/ee6e4597-cc98-4966-a9e9-bd6a4a76ea97___GCREC_Bact.Sp 3491.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/7ca28666-9325-4718-b10f-44d0fcd03a85___UF.GRC_BS_Lab Leaf 0807.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/2c11cd9f-5a64-49eb-91ba-63a7188c8eb7___GCREC_Bact.Sp 5926.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/9edd8354-16cf-4d2d-ae1a-7b274e31a665___GCREC_Bact.Sp 5869.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/84397079-5839-431e-97d1-9dfc144f1fff___UF.GRC_BS_Lab Leaf 0486.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/53be4d43-f23b-46c5-9904-efe2dbb1e647___GCREC_Bact.Sp 3703.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/af614af9-a200-4887-a394-13667ecbc8f7___GCREC_Bact.Sp 6000.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/83e484bc-0e3e-4e57-b5a4-9e8d85f03cfb___GCREC_Bact.Sp 3837.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/21e92c79-7f6e-457f-887f-a6e7ba02494b___GCREC_Bact.Sp 6049.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/9af2b6a5-23a1-4ac9-b635-6018589c9d25___GCREC_Bact.Sp 3371.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/ba2bdb7a-35c7-4842-a8e0-af3eac603cad___GCREC_Bact.Sp 6034.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/c42bf2e8-ccff-4c88-aa15-8f64e2577173___UF.GRC_BS_Lab Leaf 9073.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/a58a9c80-0f76-42ac-8f85-a734ea417286___GCREC_Bact.Sp 3017.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/6e66897f-e901-41e2-990b-54f8117b792e___GCREC_Bact.Sp 5761.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/f67df1b4-1b28-48c4-96cb-1c31d3ce7e66___UF.GRC_BS_Lab Leaf 0368.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/cb70e79d-a282-448e-a300-7f880a08cd70___GCREC_Bact.Sp 6332.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/86bcf005-a793-4d1f-a767-99548b4c3aa6___GCREC_Bact.Sp 3131.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/f14581e5-cc67-403d-a4f3-7f0be31b4899___GCREC_Bact.Sp 3497.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/aeda6048-63dc-44ea-b479-b139131c3846___GCREC_Bact.Sp 5604.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/0f1d337f-e8c5-445a-83a0-b89915eacb72___UF.GRC_BS_Lab Leaf 0435.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/9414280e-9042-4dcc-88a5-1dabc5b4016d___GCREC_Bact.Sp 3206.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/a69cf9dd-83c8-4b5c-8cd2-dbcba3aa1eb7___UF.GRC_BS_Lab Leaf 8884.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/affd3581-6323-43a3-87d6-31f6449fbf2a___GCREC_Bact.Sp 2990.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/088a515b-7dd2-469a-b921-6a7de9edb7db___GCREC_Bact.Sp 3365.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/0f81cc91-5b9b-4061-a127-74105ebbcccf___GCREC_Bact.Sp 6305.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/d066d888-1ffb-4ede-a6f9-2d5894a7f90f___GCREC_Bact.Sp 3102.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/d504f56f-b000-438e-a81a-e95870d70bb0___GCREC_Bact.Sp 5668.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/4184d645-f365-4e8b-a6f9-f5f80d5198a2___GCREC_Bact.Sp 5963.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/b5f208b2-bfa5-4542-bbd3-265519820575___GCREC_Bact.Sp 6127.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/c6492dd1-0d2e-4d57-85cc-3544734a8125___UF.GRC_BS_Lab Leaf 8646.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/06ac210d-bdb1-4224-9053-c218cb14fa60___GCREC_Bact.Sp 3220.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/08a25478-76ed-4e4c-8ad0-bc7322f050b0___GCREC_Bact.Sp 3028.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/2c292d57-d2c0-4147-a551-618f1368f72e___GCREC_Bact.Sp 5903.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/afa683b3-63de-43c1-81c6-deb8210b0d47___GCREC_Bact.Sp 5867.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/ef110350-8e1f-4eb2-a384-037eafaf1089___GCREC_Bact.Sp 5980.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/7c95cf7e-17c8-43c5-93ad-4934f2574120___GCREC_Bact.Sp 6279.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/00a7c269-3476-4d25-b744-44d6353cd921___GCREC_Bact.Sp 5807.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/1a017b74-a549-433b-979b-3e3ace67b50d___GCREC_Bact.Sp 5715.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/07957e12-d57c-45db-9243-731dd6b8caaa___GCREC_Bact.Sp 5878.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/bac40427-ce12-4369-8866-9e48e2f982da___GCREC_Bact.Sp 6092.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/eb69cd1d-ab61-44cf-b8d0-2e6317fd3043___GCREC_Bact.Sp 2998.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/ebaf3d67-cb6b-4b01-be28-f2276db98177___GCREC_Bact.Sp 3649.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/526fe053-f112-41dc-8a66-f912b73d0b66___UF.GRC_BS_Lab Leaf 8941.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/a04e5c65-ae00-495e-b732-6c7030e32fc1___GCREC_Bact.Sp 2962.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/ccfdfe87-72ec-4b17-bd86-9f0bb242dfd5___GCREC_Bact.Sp 3367.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/5a82e7de-a72d-40cf-8e22-afe0e371fbf9___GCREC_Bact.Sp 6126.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/41166a90-b9b6-4694-9a4b-81fffd3c4ca9___GCREC_Bact.Sp 5889.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/d5c25507-51c8-4565-9c4f-2e991cf83721___GCREC_Bact.Sp 6112.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/927e4c4b-e6c6-41f1-aabb-255c624ae8f2___GCREC_Bact.Sp 3722.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/afd78d63-13b3-400f-8e9a-1c87f27fa12f___UF.GRC_BS_Lab Leaf 0239.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/2cafa053-4dd6-4528-bb4f-53e4afeecefe___GCREC_Bact.Sp 2968.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/f7964e03-1651-4a72-8f28-be8626513372___GCREC_Bact.Sp 5591.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/43b71f8a-175a-4847-a2c8-69c7d2f59f10___GCREC_Bact.Sp 3476.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/c0f90bbb-d9ac-4ed6-9e3c-296c17ce42a2___GCREC_Bact.Sp 3808.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/ceecc090-5ec1-4a73-b628-7d8bcfc55f45___GCREC_Bact.Sp 6354.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/7f374252-2fcd-4dd2-8f48-a1c96bc0e760___GCREC_Bact.Sp 3745.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/959b1a2d-0324-4525-94e6-90c8749cbb29___GCREC_Bact.Sp 5882.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/bf5a66b5-5d94-4bd1-a01a-a789ff7a516e___GCREC_Bact.Sp 3389.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/8e97cba6-8d12-420d-b2a7-914af21e0c7b___GCREC_Bact.Sp 6066.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/f88ed2e0-d8ed-475e-b96a-09b22cf56684___GCREC_Bact.Sp 3357.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/aaa4e010-ef65-4513-af1c-be9fb857fe5d___GCREC_Bact.Sp 5895.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/0542f446-f9d7-4173-ab07-f41125b21dc7___GCREC_Bact.Sp 3074.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/8f6373d0-3b5a-4c5f-8b45-e5efe5a2fb5f___GCREC_Bact.Sp 5711.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/72c74c30-e843-42f3-9088-5c3b38e4b736___GCREC_Bact.Sp 3374.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/75348d38-1c41-4798-89c9-b99660d937ef___GCREC_Bact.Sp 5602.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/9e748aef-42d5-429b-b2c6-c95dfa581331___GCREC_Bact.Sp 3363.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/6a56a429-b241-428d-9fb7-7ea0b84d2b12___GCREC_Bact.Sp 3246.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/d3fddfab-b65c-43e2-bceb-e72ce73f33eb___GCREC_Bact.Sp 3810.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/e444a471-4021-424b-a375-78f3b17413c8___GCREC_Bact.Sp 6319.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/10ed1b4a-e116-4c7e-85f6-5cc4577dbbb8___GCREC_Bact.Sp 3188.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/919a61ac-2dc9-4eb7-8503-3b04fc0ce109___UF.GRC_BS_Lab Leaf 0303.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/b7db70a8-ca63-409e-9e60-47dce0ac5164___UF.GRC_BS_Lab Leaf 0646.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/4b3b4550-4629-4b5d-9b6a-5af474c6066e___GCREC_Bact.Sp 3850.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/34ac5364-da6b-4a03-a37f-44fd1ad2144a___GCREC_Bact.Sp 2957.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/71206367-de88-4a81-a1e8-c11b27c4e8de___UF.GRC_BS_Lab Leaf 9272.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/bc54f201-4a3b-446f-af60-ea26285893c8___UF.GRC_BS_Lab Leaf 8951.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/bf962eca-a579-4f9d-aab4-7406179290b9___GCREC_Bact.Sp 6283.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/d9a91bb5-35d8-459c-8c04-8a155bc6a158___GCREC_Bact.Sp 5592.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/b25b9bc6-18c7-4dca-a47c-9e0e9652c53d___UF.GRC_BS_Lab Leaf 9307.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/151a2e55-b8d4-4c30-b494-4aa77a2f5695___GCREC_Bact.Sp 5941.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/ad2c35c8-fa0b-472b-94da-74699da0dede___GCREC_Bact.Sp 6046.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/4e491f68-728c-4c46-ba0d-df701d008e1d___GCREC_Bact.Sp 3200.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/b54854bf-7cc6-4ee4-8189-122c26e75122___GCREC_Bact.Sp 5912.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/1406a6e5-8aab-44df-997a-6386c01dc086___GCREC_Bact.Sp 5974.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/be4dd24b-c2d2-4e6b-bb77-f5d6866ede96___GCREC_Bact.Sp 3123.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/963e1eca-9916-4918-a2da-0f5feaef000a___UF.GRC_BS_Lab Leaf 0269.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/ce5152ad-92fb-4187-80f6-eef2524bf131___GCREC_Bact.Sp 3432.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/cda5f764-3abe-4d1f-8fa3-b317f08bf012___GCREC_Bact.Sp 3618.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/4d6779a3-148c-474f-b789-d43939a6d9cf___GCREC_Bact.Sp 5599.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/99044ddb-da2a-4b32-bc11-67e57cb2b807___UF.GRC_BS_Lab Leaf 0749.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/1b3ccbf3-c1e1-476e-b34a-6af0a6fbb349___GCREC_Bact.Sp 3735.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/c6b57820-5c54-4ee1-841c-07222804c1b7___GCREC_Bact.Sp 6383.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/59738947-4377-41ba-8a10-0335fdc27ab7___GCREC_Bact.Sp 3734.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/7236e643-bb0f-475e-8bb6-41981fc696f4___UF.GRC_BS_Lab Leaf 8747.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/0c883752-3334-4615-841d-287d58ecf60d___GCREC_Bact.Sp 6119.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/111a63c7-6445-47a4-a0d6-9157fd82b804___UF.GRC_BS_Lab Leaf 0565.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/e33fbdfb-6511-47b7-9dc2-afa294f3ba0e___UF.GRC_BS_Lab Leaf 1045.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/00639d29-2d1a-4fcf-9bd3-a2b3109c74c4___UF.GRC_BS_Lab Leaf 1054.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/39d2634e-789c-4fdb-bbe7-1c03e04d91b8___GCREC_Bact.Sp 5763.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/086880d1-73c4-40d3-99ea-d446c2299692___GCREC_Bact.Sp 3333.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/fb255876-e618-43a7-ad17-7b200039dbde___UF.GRC_BS_Lab Leaf 0614.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/ce0e079f-e989-45be-a487-fee23b77789b___GCREC_Bact.Sp 3527.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/90cbe307-2ec6-45f8-b62d-b6fb602466f4___UF.GRC_BS_Lab Leaf 8592.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/6489c93d-c44e-4c54-a4fc-2af319d1cba1___GCREC_Bact.Sp 6142.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/e853c1a3-9134-47ab-a1c6-12ec9d35c0ca___GCREC_Bact.Sp 3723.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/ea4ddb4b-216a-4ec2-85bc-06314c7de145___GCREC_Bact.Sp 3022.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/02a0f70a-9e27-420e-93ff-6ed8105f41c1___GCREC_Bact.Sp 3570.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/26768a91-4aca-41a4-ad88-1b791c2312dc___GCREC_Bact.Sp 5669.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/9040e017-35a4-4f74-a327-7c7d6f20ef65___GCREC_Bact.Sp 5578.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/ef20a397-2057-4f88-888b-9325bd16404a___GCREC_Bact.Sp 3280.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/82aa438d-e17c-4756-8464-59d8c49497e9___GCREC_Bact.Sp 3245.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/d56b1f3a-0840-4c5d-87bf-68476ec57b97___GCREC_Bact.Sp 5681.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/47a3c2c9-1f3b-4d42-8857-cfc714042c2a___UF.GRC_BS_Lab Leaf 8631.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/a0e1d9f5-14aa-4161-aee6-0b1f42444b81___UF.GRC_BS_Lab Leaf 8714.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/3fa087fa-ee1e-4c2a-92da-66230e00ea44___UF.GRC_BS_Lab Leaf 0706.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/4d02e3e4-c583-402a-adc0-b258c8a3384f___UF.GRC_BS_Lab Leaf 0287.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/f9ca8392-73cf-4045-96f4-5fe481418df1___GCREC_Bact.Sp 3165.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/482ef065-ba2f-4492-b215-9a60138a0047___GCREC_Bact.Sp 3090.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/e4404de4-7958-4e77-a7ed-664dd0d7f2c9___GCREC_Bact.Sp 5906.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/288896d1-7094-4250-9fd6-00589c41b42a___UF.GRC_BS_Lab Leaf 0264.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/8b4f1638-2795-4da0-8aa6-06792870bf86___GCREC_Bact.Sp 3591.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/581ec351-50cf-4ab7-9b6a-cbae02d623df___GCREC_Bact.Sp 2985.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/a1ac8962-f625-4f06-b896-5ee4e5c2fcc8___UF.GRC_BS_Lab Leaf 0666.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/78981c8c-0a81-45ed-8e6d-5413d7e2f01a___GCREC_Bact.Sp 3554.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/d903df67-fe54-4892-be62-1db1a8bbe6d2___GCREC_Bact.Sp 5942.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/58591da8-58b7-481e-bf58-bd88443d0901___GCREC_Bact.Sp 6192.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/f144a9b5-bdbb-48ca-a454-4885137f805a___GCREC_Bact.Sp 3629.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/f3bbf9c8-06fd-4f1e-930a-f576c0fbc06d___GCREC_Bact.Sp 3717.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/c2edceac-615e-499f-ba58-5e2c4d21597f___GCREC_Bact.Sp 5794.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/dabf464f-af7f-4fdb-b598-ebc369968706___GCREC_Bact.Sp 3287.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/11a25ab9-8a55-4891-898c-ef29c0502fa2___GCREC_Bact.Sp 3531.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/666242bb-ccc7-4085-8d60-05b5eba349c0___GCREC_Bact.Sp 6249.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/c809df76-1ae4-4543-9a2e-ed079ae737df___UF.GRC_BS_Lab Leaf 9231.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/e351d0c3-b7c6-4c94-9428-e350c4325a22___GCREC_Bact.Sp 3089.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/655639ad-cd0d-457a-b53a-8e25886e4f55___GCREC_Bact.Sp 3099.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/27753ef8-a51a-4414-970d-c26419c6e13a___GCREC_Bact.Sp 3252.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/a85dac1e-5549-457d-acda-e776d340f980___GCREC_Bact.Sp 3693.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/d1c21ca6-efc2-48f3-a1be-1593320db75c___GCREC_Bact.Sp 3623.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/4d036bc9-ce94-4da8-af1b-564b2846fbf8___GCREC_Bact.Sp 5789.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/1a83cb1d-6e47-4caf-931f-61ecad37dca4___GCREC_Bact.Sp 6167.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/33950b17-918e-4243-bfbd-be33874b62c4___GCREC_Bact.Sp 3303.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/c1ca97a3-0701-4d1b-ab77-0a1d018d7886___GCREC_Bact.Sp 5609.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/f92bb674-d3ff-480e-aa28-53d227491d95___GCREC_Bact.Sp 5949.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/d09eb669-4a51-4122-a87c-94dc03324c87___UF.GRC_BS_Lab Leaf 0931.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/27a806fe-06f2-48fb-92cf-32d44d545606___GCREC_Bact.Sp 3052.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/459dc80c-b60d-4da1-9400-7e0803cb2432___UF.GRC_BS_Lab Leaf 0708.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/f4304000-5523-4fc6-93e4-9e570a1d237d___GCREC_Bact.Sp 5689.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/3a6ccb7a-58bf-49b8-bc01-65eb74c210dd___GCREC_Bact.Sp 3051.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/b6e70a9c-f9c1-457c-826a-81749c540fe5___GCREC_Bact.Sp 5581.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/509c3853-b405-440f-bda3-59f1d7d238be___GCREC_Bact.Sp 3250.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/7218c0f5-1083-4b2d-b0da-4c32edb279de___GCREC_Bact.Sp 3286.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/3f71f836-8ffa-4bf7-98f7-e5cff0887fe1___GCREC_Bact.Sp 3814.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/14d87e41-89b0-4872-aa2c-3a85de708d2a___UF.GRC_BS_Lab Leaf 8992.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/edcbb73e-46f6-4798-bcdd-7c4477b6b9cf___GCREC_Bact.Sp 3214.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/9ec2ee25-8006-49f3-bde0-fb26f37a62f2___GCREC_Bact.Sp 3421.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/a7b44387-9845-46b5-b520-5a7420efee98___UF.GRC_BS_Lab Leaf 0763.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/6cf1c4d7-d99f-4f70-a003-37054e9f617a___GCREC_Bact.Sp 3417.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/259e3235-f6f5-4d2a-8fb6-f63f3446d2f9___GCREC_Bact.Sp 6282.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/45ffd23d-bd59-4633-881f-fe229f999e88___GCREC_Bact.Sp 3626.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/7e045ecc-bab1-43c8-9b4d-2d7697b20847___GCREC_Bact.Sp 6165.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/1657e79d-9172-4170-aa17-56714f2ad03b___UF.GRC_BS_Lab Leaf 9145.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/78b53dfd-6959-49f2-99a3-b4baa586198d___GCREC_Bact.Sp 6324.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/6423c12d-7802-4fd0-92d3-2f5438f22418___UF.GRC_BS_Lab Leaf 9152.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/7e2d95d8-61e7-4b3f-8425-a6bfd53e8490___UF.GRC_BS_Lab Leaf 0402.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/1664fff5-8d2e-4615-a448-2dd093c0df82___GCREC_Bact.Sp 3290.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/fa416dda-9685-490c-ad69-e857e205b1fb___GCREC_Bact.Sp 6181.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/d0afa6c0-1ed2-4c53-bf88-a15ed11ed800___GCREC_Bact.Sp 3742.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/ccafbe60-2783-45b3-a73b-16f93a301cf5___GCREC_Bact.Sp 3395.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/7e423f77-2947-4e4e-9777-17a780996d39___GCREC_Bact.Sp 5600.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/55f46365-0a3b-4194-b830-8b0b74bf1a19___GCREC_Bact.Sp 3106.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/a9f9ac3b-84be-4356-9a00-12beaea27593___GCREC_Bact.Sp 3638.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/2dd3b6ae-0ddc-4319-8c69-c10adadd038d___GCREC_Bact.Sp 5958.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/13affc42-3a89-4a99-97aa-98f41682a71e___UF.GRC_BS_Lab Leaf 0546.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/9920ea08-d9d7-464c-addb-c6ecebddf420___GCREC_Bact.Sp 5880.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/05777829-6912-44bb-bcef-901bc5190584___GCREC_Bact.Sp 6150.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/dc865b07-0701-4ddd-be52-cc75f80d0ada___UF.GRC_BS_Lab Leaf 0683.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/5849b4f9-da0f-46fc-9671-fafef05c921b___UF.GRC_BS_Lab Leaf 9276.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/fe1532f6-a66d-4705-b0ab-7e5ed6f9b81a___GCREC_Bact.Sp 6346.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/e0d9aef6-cce9-4ca0-9af6-ea44e9985cdf___GCREC_Bact.Sp 5847.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/66b55a66-a555-4ee7-aed4-768a22be548d___GCREC_Bact.Sp 5721.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/e76265f7-6ce4-4448-856e-84a4cfb94bd0___GCREC_Bact.Sp 5862.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/383335dc-fb2e-481c-a66f-9194f2715d92___UF.GRC_BS_Lab Leaf 0904.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/98abbc97-8dd1-4e70-af78-d88b0c26aaf9___GCREC_Bact.Sp 5922.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/61790c83-fbef-4c55-8a47-bfef01b30fa0___UF.GRC_BS_Lab Leaf 8906.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/1eb86f3d-7d18-41b8-b33c-807662b2d2df___GCREC_Bact.Sp 5555.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/d3235199-bec9-4191-ab79-53797ef23873___GCREC_Bact.Sp 3189.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/35dfda90-eb0e-452a-b1cb-0ff20ef36e4b___GCREC_Bact.Sp 2972.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/72bde0f1-7bb5-4943-8548-d3e912f314e8___GCREC_Bact.Sp 5786.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/1a47b569-a868-4a45-ad81-eec12a9dae7a___GCREC_Bact.Sp 6148.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/af8921c3-e3f5-434f-a391-cde9cb1fa956___GCREC_Bact.Sp 3384.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/cae55521-635e-4d8d-b67c-f178ba3f237a___GCREC_Bact.Sp 5904.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/606ad875-f0db-4725-8b4d-d046b6a1405f___GCREC_Bact.Sp 6228.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/97df90cb-22f1-464d-8084-2b63abd4dc99___GCREC_Bact.Sp 3311.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/8d4ca679-c45e-4d6a-934c-2dc64684c53e___GCREC_Bact.Sp 3774.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/f1984cc1-26df-40dc-abf2-9bbd9b879b37___GCREC_Bact.Sp 6141.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/fd3e89ea-d6f8-4544-8aa5-ec27578a0a7b___GCREC_Bact.Sp 3788.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/fd0edb16-764c-4f1d-8425-d7f67f7564c2___UF.GRC_BS_Lab Leaf 9084.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/0f2247f4-7ffe-409c-9833-ce8a7723ee02___GCREC_Bact.Sp 6080.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/799f1c5e-d749-47d1-a8c9-d11f506ceed9___GCREC_Bact.Sp 5629.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/a3df33d5-b1e6-49f8-93c4-013e47b5acc3___GCREC_Bact.Sp 3044.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/45b562f0-a975-4c93-a705-699d7cc977bc___GCREC_Bact.Sp 5733.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/7410937a-85f8-48ae-bebf-eed37eddf361___GCREC_Bact.Sp 5858.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/9ae5c3fd-c13c-47f1-bd58-eee112ef3b20___GCREC_Bact.Sp 6149.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/18f11c42-356f-4f3a-bc6d-f770dd101ba4___GCREC_Bact.Sp 5631.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/f58a3d12-29e7-4f43-a189-fa80df8f8e72___GCREC_Bact.Sp 5691.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/172458d3-8e11-4e75-9f39-d7e96e885108___GCREC_Bact.Sp 3071.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/666a5368-e53d-41f2-8fee-4a85f1257b8c___GCREC_Bact.Sp 3163.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/67ce694b-bfcc-4e74-8ec7-9404011802e7___GCREC_Bact.Sp 6154.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/741e2f09-1b62-42c2-b218-6504d57c0f27___GCREC_Bact.Sp 3302.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/10c418e8-59b3-4d9f-a22b-7762b538e758___UF.GRC_BS_Lab Leaf 0900.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/8571dec5-c1d3-4d91-8b7e-2d1c188bede6___GCREC_Bact.Sp 5683.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/b3c9f756-9328-46de-989b-a75859b40027___GCREC_Bact.Sp 3403.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/7c0bb91f-4508-4bb1-a3d4-da074429c167___GCREC_Bact.Sp 3167.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/c69ce12c-9c20-4313-9726-bd09f537392b___GCREC_Bact.Sp 3840.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/0a6d40e4-75d6-4659-8bc1-22f47cdb2ca8___GCREC_Bact.Sp 6247.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/4a5a1551-dd56-4fce-971c-4d7166afaff1___GCREC_Bact.Sp 3113.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/0e591ff9-a58f-4748-ac0f-984233f441af___GCREC_Bact.Sp 3292.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/0a64655c-4052-4e5f-a696-2a6cf25d10c9___GCREC_Bact.Sp 6017.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/f073c2a6-ac26-49d4-a76d-049abbdb2cfa___GCREC_Bact.Sp 3067.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/44ddc088-1234-4cc8-aa29-e695104a7d1b___GCREC_Bact.Sp 6162.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/a2ea3cb7-5c9e-4d3c-9e6c-42f7eb5f98a4___GCREC_Bact.Sp 6076.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/291aa719-2698-4449-9e9c-095cfc04da6f___GCREC_Bact.Sp 6196.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/dea314b1-624c-492d-9eb0-965a34bf89c7___GCREC_Bact.Sp 3462.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/c50367a9-b3f6-46aa-91ab-9ff18c6a5ab5___GCREC_Bact.Sp 5939.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/4d33be8c-151b-4d2b-960f-f15ef077d4cc___GCREC_Bact.Sp 3767.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/ffabbe39-4939-414b-af91-825f80fa4d4a___UF.GRC_BS_Lab Leaf 0870.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/2fd91512-745b-410f-b57f-a5a5dc0573b9___GCREC_Bact.Sp 3171.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/9a9e2a16-a9b3-44b9-8de8-be36b76b03ee___GCREC_Bact.Sp 5549.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/355edec8-e1bd-4f57-afa3-cbf03c2f06b1___GCREC_Bact.Sp 3353.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/8e41531c-42e8-4a0d-b453-7aae50fdfe94___GCREC_Bact.Sp 3552.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/a129e8eb-e2b4-4a8a-a509-f6625da6b11c___GCREC_Bact.Sp 3002.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/517dac9f-61a6-4e5a-928e-b0009c2d6d47___GCREC_Bact.Sp 3516.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/81497af9-6503-4379-9d8e-240f43f89006___UF.GRC_BS_Lab Leaf 0245.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/e797fd83-e984-4df6-a3a2-c19a95d19576___GCREC_Bact.Sp 3425.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/f3ba91af-7c1d-48a6-806b-1ea9235dc39d___UF.GRC_BS_Lab Leaf 8794.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/6855445b-ec04-42c0-bc12-ee8ff64420a0___GCREC_Bact.Sp 3268.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/95665d23-88a6-4a4d-99d0-437c5b9a0505___GCREC_Bact.Sp 5614.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/a2591a35-c7ed-4115-9ce5-45fb655cab8a___GCREC_Bact.Sp 6294.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/28357fdb-17f9-49e4-a10f-a5dae53aa48f___GCREC_Bact.Sp 3294.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/9fbe6dac-da52-419e-9a57-b56f94d5c910___GCREC_Bact.Sp 5837.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/942627c0-ec98-4b60-8e2e-520166b51d5e___UF.GRC_BS_Lab Leaf 0492.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/3dde2c0b-a6d1-49f7-bcdc-3a615ea9d0c0___GCREC_Bact.Sp 5731.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/2a7b80f9-bd15-42cf-aab5-699232ee1506___GCREC_Bact.Sp 6317.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/b16f9d46-69a2-4774-ab87-50159dc34dcc___GCREC_Bact.Sp 3471.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/d5bccd2c-7e11-4d61-98fb-581ca85e5f58___UF.GRC_BS_Lab Leaf 0391.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/433edf15-2e97-4582-8305-a0805ff6f271___GCREC_Bact.Sp 6073.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/c32b4ac0-1b2c-4f26-9cb7-ba400bc2614e___GCREC_Bact.Sp 3385.JPG
+PlantVillage-Dataset/Tomato___Bacterial_spot/00416648-be6e-4bd4-bc8d-82f43f8a7240___GCREC_Bact.Sp 3110.JPG
