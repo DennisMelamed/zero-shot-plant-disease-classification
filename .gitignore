@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+lightning_logs
+intitial_model_results
+triplet_results
+__pycache__
